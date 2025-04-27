@@ -1,4 +1,4 @@
-    [center][b]Aktualizacja 2.5.0.1[/b][/center]
+    [center][b][color=#542A2A]Aktualizacja 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Pełna wersja gry BE[/color][/b]
     Wersja BE jest teraz dostępna! Po wielu poprawkach i dodaniu nowych funkcji, pełna wersja gry jest gotowa do pobrania. Zmiany obejmują poprawki błędów, nowy interfejs oraz możliwość sprawdzania aktualizacji.
@@ -20,9 +20,6 @@
 
     [b][color=#FF5733]🔥 Ostatni wynik[/color][/b]
     Gra teraz zapisuje Twój ostatni wynik. Dzięki temu łatwo sprawdzisz, jak Ci poszło w poprzednich rozgrywkach.
-
-    [b][color=#FF5733]🎬 Animacje wyskakujących okienek[/color][/b]
-    Dodałem animacje do wyskakujących okienek, co poprawia płynność gry i sprawia, że interakcja z aplikacją jest przyjemniejsza.
 
     [b][color=#FF5733]🐞 Poprawki błędów[/color][/b]
     Poprawiłem błędy, które mogły powodować problemy z wydajnością. Gra powinna działać bardziej stabilnie i bez zakłóceń.
