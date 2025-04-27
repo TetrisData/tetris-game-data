@@ -1,0 +1,44 @@
+Hey everyone!
+
+A new update is live, and it brings quite a few changes and improvements to the game. Here's what’s new:
+
+🔄 Version Switcher (Legacy / BE)
+You can now switch between the Legacy and BE versions of the game! This was one of the most requested features, and it’s finally here.
+
+⚠️ A quick note about the BE version:
+This isn’t the same as the original BE version some of you might remember. Unfortunately, I lost access to the old source code, which meant I had to recreate all the textures from scratch. There are still some issues with switching tetromino textures dynamically, so for now, the BE version stays in its classic form – but it's still available to download!
+
+🎨 UI & UX Improvements
+Updated several UI elements for a cleaner and more modern look.
+
+Added a new pause menu with better navigation.
+
+Improved translation support across the game.
+
+Adden version indicator in main menu
+
+Introduced two new tabs in the main menu:
+Settings – adjust music volume and other preferences
+Help – basic instructions and information for new players
+
+
+🔊 New Music Volume Option
+You can now adjust the music volume in the settings!
+
+⚙️ Optimization & Bug Fixes
+General performance improvements across devices.
+
+Fixed several bugs and glitches.
+
+🛍️ Store Page Updates
+The Linux builds have been removed due to very low download numbers.
+
+Store page now features greater transparency about the game's versions and status.
+
+Next update will fix all bugs and will add pieces textures from BE version.
+
+Thanks for sticking with me through development! I’m always working to improve the game, and your feedback is invaluable. Feel free to drop your thoughts or suggestions in the comments.
+
+Cheers!
+
+Tetracode Studio
