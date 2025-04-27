@@ -1,4 +1,4 @@
- [center][b]Update 2.5.0.1[/b][/center]
+ [center][b][color=#542A2A]Update 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Full BE Game Version[/color][/b]
     The full BE version is now available! After several fixes and the addition of new features, the full version of the game is ready to download. Changes include bug fixes, a new UI, and the ability to check for updates.
@@ -20,9 +20,6 @@
 
     [b][color=#FF5733]🔥 Last Score[/color][/b]
     The game now saves your last score, making it easier to see how you performed in previous sessions.
-
-    [b][color=#FF5733]🎬 Pop-up Animations[/color][/b]
-    I’ve added animations to pop-up windows, making the game feel smoother and visually appealing.
 
     [b][color=#FF5733]🐞 Bug Fixes[/color][/b]
     I’ve fixed several bugs that were causing performance issues. The game should now run more stable and without disruptions.
