@@ -1,4 +1,4 @@
-[center][b][color=#542A2A]Update 2.5.0.1[/color][/b][/center]
+[center][b][color=#FF5733]Update 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Vollständige BE-Spielversion[/color][/b]
     Die vollständige BE-Version ist jetzt verfügbar! Nach mehreren Korrekturen und der Hinzufügung neuer Funktionen ist die vollständige Version des Spiels nun zum Download bereit. Änderungen beinhalten Fehlerbehebungen, eine neue Benutzeroberfläche und die Möglichkeit, nach Updates zu suchen.
