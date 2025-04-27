@@ -1,4 +1,4 @@
-[center][b]Update 2.5.0.1[/b][/center]
+[center][b][color=#542A2A]Update 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Vollständige BE-Spielversion[/color][/b]
     Die vollständige BE-Version ist jetzt verfügbar! Nach mehreren Korrekturen und der Hinzufügung neuer Funktionen ist die vollständige Version des Spiels nun zum Download bereit. Änderungen beinhalten Fehlerbehebungen, eine neue Benutzeroberfläche und die Möglichkeit, nach Updates zu suchen.
@@ -20,9 +20,6 @@
 
     [b][color=#FF5733]🔥 Letztes Ergebnis[/color][/b]
     Das Spiel speichert nun dein letztes Ergebnis, sodass du leicht sehen kannst, wie du in den vorherigen Spielen abgeschnitten hast.
-
-    [b][color=#FF5733]🎬 Pop-up-Animationen[/color][/b]
-    Ich habe Animationen zu den Pop-up-Fenstern hinzugefügt, wodurch das Spiel flüssiger und visuell ansprechender wird.
 
     [b][color=#FF5733]🐞 Fehlerbehebungen[/color][/b]
     Es wurden mehrere Fehler behoben, die die Leistung beeinträchtigten. Das Spiel sollte jetzt stabiler und ohne Unterbrechungen laufen.
