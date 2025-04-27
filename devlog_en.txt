@@ -1,44 +1,35 @@
-Hey everyone!
+ [center][b]Update 2.5.0.1[/b][/center]
 
-A new update is live, and it brings quite a few changes and improvements to the game. Here's what’s new:
+    [b][color=#FF5733]🔄 Full BE Game Version[/color][/b]
+    The full BE version is now available! After several fixes and the addition of new features, the full version of the game is ready to download. Changes include bug fixes, a new UI, and the ability to check for updates.
 
-🔄 Version Switcher (Legacy / BE)
-You can now switch between the Legacy and BE versions of the game! This was one of the most requested features, and it’s finally here.
+    [b][color=#FF5733]⚙️ Check for Updates[/color][/b]
+    You can now easily check for updates right from within the game! Just go to [i]Main Menu/Settings/Check for Updates[/i] to make sure you have the latest version.
 
-⚠️ A quick note about the BE version:
-This isn’t the same as the original BE version some of you might remember. Unfortunately, I lost access to the old source code, which meant I had to recreate all the textures from scratch. There are still some issues with switching tetromino textures dynamically, so for now, the BE version stays in its classic form – but it's still available to download!
+    [b][color=#FF5733]📚 What's New[/color][/b]
+    I’ve added a [i]What's New[/i] tab under [i]Main Menu/Help/What's New[/i], where you can find all the latest changes and updates to the game. Stay up to date with all the new features!
 
-🎨 UI & UX Improvements
-Updated several UI elements for a cleaner and more modern look.
+    [b][color=#FF5733]🎨 UI Changes[/color][/b]
+    Several UI elements have been updated to make navigation cleaner and more intuitive. The game should now feel smoother and more enjoyable to play.
 
-Added a new pause menu with better navigation.
+    [b][color=#FF5733]👥 Multiple User Support[/color][/b]
+    Now you can have multiple users in the app. Each player can have their own saved data, so everyone can have their personalized experience.
 
-Improved translation support across the game.
+    [b][color=#FF5733]🏆 Score Panel[/color][/b]
+    A new panel has been added to display your scores. To access it, simply go to the [i]Scores[/i] tab in the [i]Main Menu[/i]. Now you can track your progress!
 
-Adden version indicator in main menu
+    [b][color=#FF5733]🔥 Last Score[/color][/b]
+    The game now saves your last score, making it easier to see how you performed in previous sessions.
 
-Introduced two new tabs in the main menu:
-Settings – adjust music volume and other preferences
-Help – basic instructions and information for new players
+    [b][color=#FF5733]🎬 Pop-up Animations[/color][/b]
+    I’ve added animations to pop-up windows, making the game feel smoother and visually appealing.
 
+    [b][color=#FF5733]🐞 Bug Fixes[/color][/b]
+    I’ve fixed several bugs that were causing performance issues. The game should now run more stable and without disruptions.
 
-🔊 New Music Volume Option
-You can now adjust the music volume in the settings!
+    [b][color=#FF5733]🚀 Many Other Improvements[/color][/b]
+    Other minor improvements have also been made to enhance your gameplay experience and overall performance.
 
-⚙️ Optimization & Bug Fixes
-General performance improvements across devices.
+    Thanks for sticking with me throughout the development! Your feedback is incredibly valuable, and I’m always working on making the game better for all of you. Feel free to drop your thoughts or suggestions in the comments!
 
-Fixed several bugs and glitches.
-
-🛍️ Store Page Updates
-The Linux builds have been removed due to very low download numbers.
-
-Store page now features greater transparency about the game's versions and status.
-
-Next update will fix all bugs and will add pieces textures from BE version.
-
-Thanks for sticking with me through development! I’m always working to improve the game, and your feedback is invaluable. Feel free to drop your thoughts or suggestions in the comments.
-
-Cheers!
-
-Tetracode Studio
+    [center][b]Tetracode Studio[/b][/center]
