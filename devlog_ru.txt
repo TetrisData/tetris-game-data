@@ -1,44 +1,35 @@
-Hey everyone!
+[center][b]Aggiornamento 2.5.0.1[/b][/center]
 
-A new update is live, and it brings quite a few changes and improvements to the game. Here's what’s new:
+    [b][color=#FF5733]🔄 Versione completa BE[/color][/b]
+    La versione completa BE è ora disponibile! Dopo diversi miglioramenti e l'aggiunta di nuove funzionalità, la versione completa del gioco è pronta per il download. I cambiamenti includono correzioni di bug, una nuova interfaccia e la possibilità di verificare gli aggiornamenti.
 
-🔄 Version Switcher (Legacy / BE)
-You can now switch between the Legacy and BE versions of the game! This was one of the most requested features, and it’s finally here.
+    [b][color=#FF5733]⚙️ Controlla gli aggiornamenti[/color][/b]
+    Ora puoi facilmente verificare la disponibilità di aggiornamenti direttamente dal gioco! Vai su [i]Menu principale/Impostazioni/Controlla aggiornamenti[/i] per assicurarti di avere l'ultima versione.
 
-⚠️ A quick note about the BE version:
-This isn’t the same as the original BE version some of you might remember. Unfortunately, I lost access to the old source code, which meant I had to recreate all the textures from scratch. There are still some issues with switching tetromino textures dynamically, so for now, the BE version stays in its classic form – but it's still available to download!
+    [b][color=#FF5733]📚 Novità[/color][/b]
+    Ho aggiunto una nuova sezione [i]Novità[/i] sotto [i]Menu principale/Aiuto/Novità[/i], dove puoi trovare tutte le ultime modifiche e aggiornamenti del gioco.
 
-🎨 UI & UX Improvements
-Updated several UI elements for a cleaner and more modern look.
+    [b][color=#FF5733]🎨 Modifiche all'interfaccia utente (UI)[/color][/b]
+    Sono stati aggiornati diversi elementi dell'interfaccia per renderla più chiara e intuitiva. Il gioco ora dovrebbe risultare più fluido e piacevole da giocare.
 
-Added a new pause menu with better navigation.
+    [b][color=#FF5733]👥 Supporto per più utenti[/color][/b]
+    Ora puoi avere più utenti nell'app. Ogni giocatore può salvare i propri dati, permettendo a ciascuno di avere una propria esperienza personalizzata.
 
-Improved translation support across the game.
+    [b][color=#FF5733]🏆 Pannello dei punteggi[/color][/b]
+    È stato aggiunto un nuovo pannello per visualizzare i tuoi punteggi. Puoi accedervi andando nella sezione [i]Punteggi[/i] nel [i]Menu principale[/i].
 
-Adden version indicator in main menu
+    [b][color=#FF5733]🔥 Ultimo punteggio[/color][/b]
+    Il gioco ora salva il tuo ultimo punteggio, così puoi facilmente confrontare i tuoi risultati con quelli precedenti.
 
-Introduced two new tabs in the main menu:
-Settings – adjust music volume and other preferences
-Help – basic instructions and information for new players
+    [b][color=#FF5733]🎬 Animazioni delle finestre pop-up[/color][/b]
+    Ho aggiunto animazioni alle finestre pop-up, rendendo il gioco più fluido e visivamente piacevole.
 
+    [b][color=#FF5733]🐞 Correzioni di bug[/color][/b]
+    Sono stati risolti numerosi bug che causavano problemi di prestazioni. Il gioco ora dovrebbe funzionare in modo più stabile e senza interruzioni.
 
-🔊 New Music Volume Option
-You can now adjust the music volume in the settings!
+    [b][color=#FF5733]🚀 Altri miglioramenti[/color][/b]
+    Sono stati apportati anche altri piccoli miglioramenti che ottimizzano l'esperienza di gioco e le prestazioni complessive.
 
-⚙️ Optimization & Bug Fixes
-General performance improvements across devices.
+    Grazie per essere stato con me durante lo sviluppo! I tuoi feedback sono molto preziosi, e sto sempre lavorando per migliorare il gioco per tutti voi. Sentiti libero di condividere i tuoi pensieri o suggerimenti nei commenti!
 
-Fixed several bugs and glitches.
-
-🛍️ Store Page Updates
-The Linux builds have been removed due to very low download numbers.
-
-Store page now features greater transparency about the game's versions and status.
-
-Next update will fix all bugs and will add pieces textures from BE version.
-
-Thanks for sticking with me through development! I’m always working to improve the game, and your feedback is invaluable. Feel free to drop your thoughts or suggestions in the comments.
-
-Cheers!
-
-Tetracode Studio
+    [center][b]Tetracode Studio[/b][/center]
