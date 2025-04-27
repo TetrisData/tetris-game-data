@@ -1,4 +1,4 @@
- [center][b]Mise à jour 2.5.0.1[/b][/center]
+ [center][b][color #542A2A]Mise à jour 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Version complète BE[/color][/b]
     La version complète BE est maintenant disponible ! Après plusieurs corrections et l’ajout de nouvelles fonctionnalités, la version complète du jeu est prête à être téléchargée. Des changements incluent des corrections de bugs, une nouvelle interface et la possibilité de vérifier les mises à jour.
@@ -20,9 +20,6 @@
 
     [b][color=#FF5733]🔥 Dernier score[/color][/b]
     Le jeu enregistre maintenant votre dernier score, ce qui facilite la comparaison avec vos précédentes parties.
-
-    [b][color=#FF5733]🎬 Animations des fenêtres pop-up[/color][/b]
-    J’ai ajouté des animations aux fenêtres pop-up, ce qui rend le jeu plus fluide et visuellement agréable.
 
     [b][color=#FF5733]🐞 Corrections de bugs[/color][/b]
     Plusieurs bugs ont été corrigés pour améliorer la stabilité du jeu.
