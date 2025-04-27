@@ -21,9 +21,6 @@
     [b][color=#FF5733]🔥 Ultimo punteggio[/color][/b]
     Il gioco ora salva il tuo ultimo punteggio, così puoi facilmente confrontare i tuoi risultati con quelli precedenti.
 
-    [b][color=#FF5733]🎬 Animazioni delle finestre pop-up[/color][/b]
-    Ho aggiunto animazioni alle finestre pop-up, rendendo il gioco più fluido e visivamente piacevole.
-
     [b][color=#FF5733]🐞 Correzioni di bug[/color][/b]
     Sono stati risolti numerosi bug che causavano problemi di prestazioni. Il gioco ora dovrebbe funzionare in modo più stabile e senza interruzioni.
 
