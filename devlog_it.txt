@@ -1,4 +1,9 @@
-    [center][b][color=#FF5733]Aggiornamento 2.5.0.1[/color][/b][/center]
+[center][b][size=18]Patch 2.5.0.3[/size][/b][/center]
+
+Aggiunte animazioni per apertura e chiusura del menu pausa ⏸️➡️▶️.
+Cambiato lo sfondo durante il caricamento del gioco 🖼️.
+[center][b]-------------------------------------------------------------------[/b][/center]
+[center][b][color=#FF5733]Aggiornamento 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Versione completa BE[/color][/b]
     La versione completa BE è ora disponibile! Dopo diversi miglioramenti e l'aggiunta di nuove funzionalità, la versione completa del gioco è pronta per il download. I cambiamenti includono correzioni di bug, una nuova interfaccia e la possibilità di verificare gli aggiornamenti.
