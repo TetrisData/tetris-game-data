@@ -1,4 +1,4 @@
-[center][b][size=18]Patch 2.5.0.3[/size][/b][/center]
+[center][b]Patch 2.5.0.3[/b][/center]
 
 Animationen zum Öffnen und Schließen des Pausenmenüs hinzugefügt ⏸️➡️▶️.
 Hintergrund beim Laden des Spiels geändert 🖼️.
