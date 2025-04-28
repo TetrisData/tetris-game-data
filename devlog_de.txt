@@ -1,3 +1,8 @@
+[center][b][size=18]Patch 2.5.0.3[/size][/b][/center]
+
+Animationen zum Öffnen und Schließen des Pausenmenüs hinzugefügt ⏸️➡️▶️.
+Hintergrund beim Laden des Spiels geändert 🖼️.
+[center][b]-------------------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Update 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Vollständige BE-Spielversion[/color][/b]
