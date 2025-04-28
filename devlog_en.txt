@@ -1,4 +1,4 @@
-[center][b]Patch 2.5.0.3[/b][/center]
+[center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
 
 Added opening and closing animations for the pause menu ⏸️➡️▶️.
 Changed the background during game loading 🖼️.
