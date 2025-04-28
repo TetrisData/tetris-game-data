@@ -1,3 +1,8 @@
+    [center][b][size=18]Patch 2.5.0.3 - Devlog (PL 🇵🇱)[/size][/b][/center]
+
+    Dodano animacje otwierania i zamykania menu pauzy ⏸️➡️▶️.
+    Zmieniono tło podczas wczytywania gry 🖼️.
+    [center][b]-------------------------------------------------------------------[/b][/center]
     [center][b][color=#FF5733]Aktualizacja 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Pełna wersja gry BE[/color][/b]
