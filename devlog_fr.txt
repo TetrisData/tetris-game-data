@@ -1,4 +1,4 @@
-[center][b][size=18]Patch 2.5.0.3[/size][/b][/center]
+[center][b]Patch 2.5.0.3[/b][/center]
 
 Ajout des animations d'ouverture et de fermeture du menu pause ⏸️➡️▶️.
 Changement du fond pendant le chargement du jeu 🖼️.
