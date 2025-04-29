@@ -1,3 +1,6 @@
+[center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
+Naprawiono błąd związany ze sprawdzaniem wersj.
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
 
     Dodano animacje otwierania i zamykania menu pauzy ⏸️➡️▶️.
