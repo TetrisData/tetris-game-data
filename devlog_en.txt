@@ -1,8 +1,11 @@
+[center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
+Fixed bug with check version function.
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
 
 Added opening and closing animations for the pause menu ⏸️➡️▶️.
 Changed the background during game loading 🖼️.
-[center][b]-------------------------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Update 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Full BE Game Version[/color][/b]
