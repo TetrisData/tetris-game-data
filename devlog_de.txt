@@ -1,11 +1,26 @@
+[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+
+Fehler beim Abspielen von Musik doppelt im Hauptmenü behoben.
+
+Fehlende Musik im Menü "Punktestand" behoben.
+
+Deutsche Übersetzung im Menü "Updates prüfen" korrigiert.
+
+Kleine Änderungen an der UI, fast unmerklich.
+
+Scroll-Problem auf Mobilgeräten behoben.
+
+Animationen für das Öffnen des "Game Over"-Menüs hinzugefügt.
+
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
 Fehler in der Versionsprüfung behoben.
-[center][b]----------------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
 
 Animationen zum Öffnen und Schließen des Pausenmenüs hinzugefügt ⏸️➡️▶️.
 Hintergrund beim Laden des Spiels geändert 🖼️.
-[center][b]----------------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Update 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Vollständige BE-Spielversion[/color][/b]
