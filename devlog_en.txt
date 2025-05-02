@@ -56,5 +56,6 @@ Changed the background during game loading 🖼️.
     Other minor improvements have also been made to enhance your gameplay experience and overall performance.
 
     Thanks for sticking with me throughout the development! Your feedback is incredibly valuable, and I’m always working on making the game better for all of you. Feel free to drop your thoughts or suggestions in the comments!
-
+[center][b]---------------------------------------------------------[/b][/center]
     [center][b]Tetracode Studio[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
