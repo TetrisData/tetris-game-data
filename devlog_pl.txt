@@ -1,12 +1,28 @@
+
+[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+
+Naprawiony błąd podwójnego dźwięku muzyki w main menu.
+
+Naprawiono brak muzyki w menu wyników.
+
+Poprawiono tłumaczenie niemieckie w menu do sprawdzania nowości.
+
+Delikatne zmiany UI prawie niezauważalne.
+
+Naprawiono przewijanie na telefonie.
+
+Dodano animacje otwierania menu przegranej.
+
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
 Naprawiono błąd związany ze sprawdzaniem wersji.
-[center][b]----------------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
 
     Dodano animacje otwierania i zamykania menu pauzy ⏸️➡️▶️.
     Zmieniono tło podczas wczytywania gry 🖼️.
-[center][b]----------------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
     [center][b][color=#FF5733]Aktualizacja 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Pełna wersja gry BE[/color][/b]
