@@ -57,4 +57,6 @@ Naprawiono błąd związany ze sprawdzaniem wersji.
 
     Dzięki, że jesteście ze mną podczas rozwoju tej gry! Wasze sugestie i opinie są dla mnie niezwykle cenne. Jeśli macie jakieś pytania lub sugestie, śmiało piszcie w komentarzach!
     
+    [center][b]---------------------------------------------------------[/b][/center]
     [center][b]Tetracode Studio[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
