@@ -1,5 +1,6 @@
-
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 
 Naprawiony błąd podwójnego dźwięku muzyki w main menu.
 
@@ -15,16 +16,18 @@ Dodano animacje otwierania menu przegranej.
 
 [center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 Naprawiono błąd związany ze sprawdzaniem wersji.
 [center][b]---------------------------------------------------------[/b][/center]
 
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 
     Dodano animacje otwierania i zamykania menu pauzy ⏸️➡️▶️.
     Zmieniono tło podczas wczytywania gry 🖼️.
 [center][b]---------------------------------------------------------[/b][/center]
     [center][b][color=#FF5733]Aktualizacja 2.5.0.1[/color][/b][/center]
-
+[center][b]---------------------------------------------------------[/b][/center]
     [b][color=#FF5733]🔄 Pełna wersja gry BE[/color][/b]
     Wersja BE jest teraz dostępna! Po wielu poprawkach i dodaniu nowych funkcji, pełna wersja gry jest gotowa do pobrania. Zmiany obejmują poprawki błędów, nowy interfejs oraz możliwość sprawdzania aktualizacji.
 
