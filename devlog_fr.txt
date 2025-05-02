@@ -1,3 +1,20 @@
+[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+
+Correction du problème de double lecture de la musique dans le menu principal.
+
+Correction de l'absence de musique dans le menu des scores.
+
+Correction de la traduction allemande dans le menu "Vérifier les mises à jour".
+
+Changements subtils de l'UI, à peine perceptibles.
+
+Correction du défilement sur les appareils mobiles.
+
+Ajout d'animations pour l'ouverture du menu "Game Over".
+
+[center][b]---------------------------------------------------------[/b][/center]
+
+
 [center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
 Correction d'un bug avec la fonction de vérification de version.
 [center][b]---------------------------------------------------------[/b][/center]
