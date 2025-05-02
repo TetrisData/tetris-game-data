@@ -1,11 +1,26 @@
+[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+
+Risolto il problema della musica doppia nel menu principale.
+
+Risolto il problema dell'assenza della musica nel menu dei punteggi.
+
+Corretto la traduzione tedesca nel menu "Controlla aggiornamenti".
+
+Piccole modifiche all'UI, quasi impercettibili.
+
+Risolto il problema di scrolling sui dispositivi mobili.
+
+Aggiunte animazioni per l'apertura del menu "Game Over".
+
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
 Corretto bug con la funzione di controllo della versione.
-[center][b]----------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
 
 Aggiunte animazioni per apertura e chiusura del menu pausa ⏸️➡️▶️.
 Cambiato lo sfondo durante il caricamento del gioco 🖼️.
-[center][b]----------------------------------------------------[/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Aggiornamento 2.5.0.1[/color][/b][/center]
 
     [b][color=#FF5733]🔄 Versione completa BE[/color][/b]
