@@ -1,4 +1,6 @@
+[center][b]---------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 
 Fixed the issue of double music playing in the main menu.
 
@@ -14,14 +16,17 @@ Added animations for opening the "Game Over" menu.
 
 [center][b]-------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 Fixed bug with check version function.
 [center][b]-------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 
 Added opening and closing animations for the pause menu ⏸️➡️▶️.
 Changed the background during game loading 🖼️.
 [center][b]-------------------------------------------------------[/b][/center]
 [center][b][color=#FF5733]Update 2.5.0.1[/color][/b][/center]
+[center][b]---------------------------------------------------------[/b][/center]
 
     [b][color=#FF5733]🔄 Full BE Game Version[/color][/b]
     The full BE version is now available! After several fixes and the addition of new features, the full version of the game is ready to download. Changes include bug fixes, a new UI, and the ability to check for updates.
