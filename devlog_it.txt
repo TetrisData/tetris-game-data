@@ -1,55 +1,43 @@
-[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Aggiornamento Massiccio 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]ATTENZIONE: prima dell’aggiornamento si consiglia di disattivare il tema della versione BE[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Novità[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*aggiunto commento e animazione quando una linea viene distrutta,
+*possibilità di cambiare versione direttamente nel gioco (sperimentale – potrebbe non funzionare correttamente; la texture cambia solo nel prossimo pezzo generato, quelli già piazzati non cambiano),
+*nuovo aspetto dei pulsanti,
+*possibilità di modificare il colore dello sfondo,
+*scelta libera del colore di sfondo,
+*aggiunte icone ai pulsanti,
+*aggiunto font personalizzato per un look migliore,
+*ottimizzate le dimensioni e l’aspetto delle finestre informative,
+*nuovo logo nel menu principale (solo con sfondo personalizzato),
+*nuova scheda “Creatori” + animazioni,
+*possibilità di scegliere il colore dell’interfaccia tra 7 disponibili (è disponibile anche il tema classico – rimuove solo gli effetti al neon, non ripristina le vecchie texture; l’interfaccia può risultare meno leggibile),
+*aggiunta la possibilità di scorrere la classifica dei giocatori.
 
-Risolto il problema della musica doppia nel menu principale.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Modifiche e Correzioni di Errori[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*correzioni generali di bug,
+*migliorato il caricamento e la selezione dei profili,
+*ottimata la verifica dei permessi del proprietario,
+*corretti i testi in inglese e tedesco,
+*migliorata la fluidità del gioco,
+*corretto un bug nel rilevamento dei pulsanti che causava clic errati,
+*aggiornamento grafico dell’interfaccia per adattarsi al nuovo stile,
+*migliorate le animazioni e la loro fluidità,
+*miglioramenti generali ai testi tradotti,
+*unificazione delle versioni linguistiche e miglioramenti alla selezione del profilo.
 
-Risolto il problema dell'assenza della musica nel menu dei punteggi.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]A causa delle modifiche, lo sfondo può apparire leggermente più scuro se il colore di sfondo è disattivato.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 
-Corretto la traduzione tedesca nel menu "Controlla aggiornamenti".
-
-Piccole modifiche all'UI, quasi impercettibili.
-
-Risolto il problema di scrolling sui dispositivi mobili.
-
-Aggiunte animazioni per l'apertura del menu "Game Over".
-
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
-Corretto bug con la funzione di controllo della versione.
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
-
-Aggiunte animazioni per apertura e chiusura del menu pausa ⏸️➡️▶️.
-Cambiato lo sfondo durante il caricamento del gioco 🖼️.
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Aggiornamento 2.5.0.1[/color][/b][/center]
-
-    [b][color=#FF5733]🔄 Versione completa BE[/color][/b]
-    La versione completa BE è ora disponibile! Dopo diversi miglioramenti e l'aggiunta di nuove funzionalità, la versione completa del gioco è pronta per il download. I cambiamenti includono correzioni di bug, una nuova interfaccia e la possibilità di verificare gli aggiornamenti.
-
-    [b][color=#FF5733]⚙️ Controlla gli aggiornamenti[/color][/b]
-    Ora puoi facilmente verificare la disponibilità di aggiornamenti direttamente dal gioco! Vai su [i]Menu principale/Impostazioni/Controlla aggiornamenti[/i] per assicurarti di avere l'ultima versione.
-
-    [b][color=#FF5733]📚 Novità[/color][/b]
-    Ho aggiunto una nuova sezione [i]Novità[/i] sotto [i]Menu principale/Aiuto/Novità[/i], dove puoi trovare tutte le ultime modifiche e aggiornamenti del gioco.
-
-    [b][color=#FF5733]🎨 Modifiche all'interfaccia utente (UI)[/color][/b]
-    Sono stati aggiornati diversi elementi dell'interfaccia per renderla più chiara e intuitiva. Il gioco ora dovrebbe risultare più fluido e piacevole da giocare.
-
-    [b][color=#FF5733]👥 Supporto per più utenti[/color][/b]
-    Ora puoi avere più utenti nell'app. Ogni giocatore può salvare i propri dati, permettendo a ciascuno di avere una propria esperienza personalizzata.
-
-    [b][color=#FF5733]🏆 Pannello dei punteggi[/color][/b]
-    È stato aggiunto un nuovo pannello per visualizzare i tuoi punteggi. Puoi accedervi andando nella sezione [i]Punteggi[/i] nel [i]Menu principale[/i].
-
-    [b][color=#FF5733]🔥 Ultimo punteggio[/color][/b]
-    Il gioco ora salva il tuo ultimo punteggio, così puoi facilmente confrontare i tuoi risultati con quelli precedenti.
-
-    [b][color=#FF5733]🐞 Correzioni di bug[/color][/b]
-    Sono stati risolti numerosi bug che causavano problemi di prestazioni. Il gioco ora dovrebbe funzionare in modo più stabile e senza interruzioni.
-
-    [b][color=#FF5733]🚀 Altri miglioramenti[/color][/b]
-    Sono stati apportati anche altri piccoli miglioramenti che ottimizzano l'esperienza di gioco e le prestazioni complessive.
-
-    Grazie per essere stato con me durante lo sviluppo! I tuoi feedback sono molto preziosi, e sto sempre lavorando per migliorare il gioco per tutti voi. Sentiti libero di condividere i tuoi pensieri o suggerimenti nei commenti!
-
-    [center][b]Tetracode Studio[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Hai trovato un errore? Scrivici a: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]

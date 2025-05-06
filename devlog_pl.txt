@@ -1,62 +1,43 @@
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
-[center][b]---------------------------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Ogromna aktualizacja 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]UWAGA: przed aktualizacją zaleca się wyłączenie motywu wersji BE[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Nowości[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*dodano komentarz i animację po zniszczeniu linii,
+*możliwość zmiany wersji gry bezpośrednio w aplikacji (funkcja eksperymentalna, może nie działać poprawnie – zmiana tekstury dotyczy dopiero kolejnego generowanego klocka, wcześniej postawione nie zmieniają wyglądu),
+*nowy wygląd przycisków,
+*możliwość edycji koloru tła,
+*pełna dowolność w wyborze koloru tła,
+*dodano ikonki do przycisków,
+*dodano niestandardową czcionkę dla lepszego wyglądu,
+*zoptymalizowano rozmiar oraz wygląd okien informacyjnych,
+*nowe logo w menu głównym (dla niestandardowego tła),
+*nowa zakładka „Twórcy” + animacje,
+*możliwość wyboru koloru UI spośród 7 dostępnych (dostępny też klasyczny motyw – usuwa tylko efekty neonowe, nie przywraca starych tekstur, przez co UI może być mniej czytelny),
+*dodano możliwość przewijania tablicy wyników graczy.
 
-Naprawiony błąd podwójnego dźwięku muzyki w main menu.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Zmiany i poprawki błędów[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*ogólne poprawki błędów,
+*poprawiono działanie wyboru profilu i wczytywania użytkowników,
+*usprawniono weryfikację uprawnień właściciela,
+*naprawiono tłumaczenia (angielskie, niemieckie),
+*poprawiono płynność gry,
+*naprawiono błąd z nieprawidłowym zaznaczaniem przycisków (missclicki),
+*zaktualizowano wygląd UI na bardziej estetyczny i przejrzysty, pasujący do nowej stylistyki,
+*poprawiono animacje i ich płynność,
+*ogólne poprawki tekstów tłumaczeń,
+*ujednolicono wersje językowe i ulepszono wybór profilu.
 
-Naprawiono brak muzyki w menu wyników.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]W związku ze zmianami tło może być nieco ciemniejsze, jeśli kolorowe tło jest wyłączone.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 
-Poprawiono tłumaczenie niemieckie w menu do sprawdzania nowości.
-
-Delikatne zmiany UI prawie niezauważalne.
-
-Naprawiono przewijanie na telefonie.
-
-Dodano animacje otwierania menu przegranej.
-
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
-[center][b]---------------------------------------------------------[/b][/center]
-Naprawiono błąd związany ze sprawdzaniem wersji.
-[center][b]---------------------------------------------------------[/b][/center]
-
-[center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
-[center][b]---------------------------------------------------------[/b][/center]
-
-    Dodano animacje otwierania i zamykania menu pauzy ⏸️➡️▶️.
-    Zmieniono tło podczas wczytywania gry 🖼️.
-[center][b]---------------------------------------------------------[/b][/center]
-    [center][b][color=#FF5733]Aktualizacja 2.5.0.1[/color][/b][/center]
-[center][b]---------------------------------------------------------[/b][/center]
-    [b][color=#FF5733]🔄 Pełna wersja gry BE[/color][/b]
-    Wersja BE jest teraz dostępna! Po wielu poprawkach i dodaniu nowych funkcji, pełna wersja gry jest gotowa do pobrania. Zmiany obejmują poprawki błędów, nowy interfejs oraz możliwość sprawdzania aktualizacji.
-
-    [b][color=#FF5733]⚙️ Sprawdzanie Aktualizacji[/color][/b]
-    Możesz teraz łatwo sprawdzić dostępność aktualizacji z poziomu gry! Wystarczy przejść do [i]Menu Główne/Ustawienia/Sprawdź Aktualizacje[/i], aby sprawdzić, czy masz najnowszą wersję.
-
-    [b][color=#FF5733]📚 Co Nowego[/color][/b]
-    Dodałem zakładkę [i]Co Nowego[/i] w sekcji [i]Menu Główne/Pomoc/Co Nowego[/i], gdzie znajdziesz wszystkie zmiany i aktualizacje w grze. Teraz możesz być na bieżąco z wszystkimi nowinkami!
-
-    [b][color=#FF5733]🎨 Zmiany w UI[/color][/b]
-    Zaktualizowałem kilka elementów interfejsu, aby były bardziej intuicyjne i przyjazne użytkownikowi. Nawigacja powinna być teraz łatwiejsza, a gra bardziej płynna.
-
-    [b][color=#FF5733]👥 Możliwość posiadania kilku użytkowników[/color][/b]
-    Teraz możesz mieć wielu użytkowników w aplikacji. Każdy gracz może mieć swoje dane zapisane osobno, dzięki czemu każda osoba może grać na swoim koncie.
-
-    [b][color=#FF5733]🏆 Panel wyników[/color][/b]
-    Dodałem nowy panel do wyświetlania wyników. Aby go zobaczyć, przejdź do zakładki [i]Wyniki[/i] w [i]Menu Główne[/i]. Teraz możesz śledzić swoje osiągnięcia!
-
-    [b][color=#FF5733]🔥 Ostatni wynik[/color][/b]
-    Gra teraz zapisuje Twój ostatni wynik. Dzięki temu łatwo sprawdzisz, jak Ci poszło w poprzednich rozgrywkach.
-
-    [b][color=#FF5733]🐞 Poprawki błędów[/color][/b]
-    Poprawiłem błędy, które mogły powodować problemy z wydajnością. Gra powinna działać bardziej stabilnie i bez zakłóceń.
-
-    [b][color=#FF5733]🚀 Wiele innych ulepszeń[/color][/b]
-    Dodałem także inne drobne poprawki, które poprawiają komfort gry i zwiększają jej wydajność.
-
-    Dzięki, że jesteście ze mną podczas rozwoju tej gry! Wasze sugestie i opinie są dla mnie niezwykle cenne. Jeśli macie jakieś pytania lub sugestie, śmiało piszcie w komentarzach!
-    
-    [center][b]---------------------------------------------------------[/b][/center]
-    [center][b]Tetracode Studio[/b][/center]
-[center][b]---------------------------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Jeśli znajdziesz błąd, napisz na: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]

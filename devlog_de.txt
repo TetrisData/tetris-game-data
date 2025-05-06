@@ -1,55 +1,44 @@
-[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Großes Update 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]ACHTUNG: Vor dem Update wird empfohlen, das BE-Design zu deaktivieren[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Neuheiten[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*Kommentar und Animation hinzugefügt, wenn eine Linie zerstört wird,
+*Möglichkeit, die Spielversion direkt im Spiel zu ändern (experimentell – funktioniert möglicherweise nicht korrekt; Textur ändert sich nur beim nächsten Block, bereits gesetzte bleiben unverändert),
+*neues Aussehen der Schaltflächen,
+*Hintergrundfarbe kann bearbeitet werden,
+*freie Wahl der Hintergrundfarbe,
+*Schaltflächen haben jetzt Symbole,
+*benutzerdefinierte Schriftart zur Verbesserung des Designs hinzugefügt,
+*optimierte Größe und neues Layout der Infofenster,
+*neues Logo im Hauptmenü (nur mit benutzerdefiniertem Hintergrund),
+*neuer „Creator“-Tab + Animationen,
+*UI-Farbe aus 7 verfügbaren Optionen wählbar (klassisches Design verfügbar – entfernt nur Neoneffekte, alte Texturen werden nicht wiederhergestellt, UI kann dadurch schwer lesbar sein),
+*Scoreboard kann jetzt gescrollt werden.
 
-Fehler beim Abspielen von Musik doppelt im Hauptmenü behoben.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Änderungen und Fehlerbehebungen[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*allgemeine Fehlerbehebungen,
+*Profilauswahl und Benutzerladen verbessert,
+*Rechteüberprüfung des Besitzers optimiert,
+*Übersetzungen (Englisch, Deutsch) korrigiert,
+*flüssigeres Gameplay,
+*Fehler bei der Schaltflächenerkennung (Fehlklicks) behoben,
+*UI-Design moderner und übersichtlicher gestaltet,
+*Animationen optimiert,
+*allgemeine Textverbesserungen bei Übersetzungen,
+*vereinheitlichte Sprachversionen und verbessertes Profilwahlmenü.
 
-Fehlende Musik im Menü "Punktestand" behoben.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Durch Änderungen kann der Hintergrund bei deaktivierter Farboption leicht dunkler wirken.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 
-Deutsche Übersetzung im Menü "Updates prüfen" korrigiert.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Fehler gefunden? Schreib uns: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 
-Kleine Änderungen an der UI, fast unmerklich.
-
-Scroll-Problem auf Mobilgeräten behoben.
-
-Animationen für das Öffnen des "Game Over"-Menüs hinzugefügt.
-
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
-Fehler in der Versionsprüfung behoben.
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
-
-Animationen zum Öffnen und Schließen des Pausenmenüs hinzugefügt ⏸️➡️▶️.
-Hintergrund beim Laden des Spiels geändert 🖼️.
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Update 2.5.0.1[/color][/b][/center]
-
-    [b][color=#FF5733]🔄 Vollständige BE-Spielversion[/color][/b]
-    Die vollständige BE-Version ist jetzt verfügbar! Nach mehreren Korrekturen und der Hinzufügung neuer Funktionen ist die vollständige Version des Spiels nun zum Download bereit. Änderungen beinhalten Fehlerbehebungen, eine neue Benutzeroberfläche und die Möglichkeit, nach Updates zu suchen.
-
-    [b][color=#FF5733]⚙️ Nach Updates suchen[/color][/b]
-    Du kannst jetzt ganz einfach nach Updates suchen, direkt aus dem Spiel! Gehe einfach zu [i]Hauptmenü/Einstellungen/Nach Updates suchen[/i], um sicherzustellen, dass du die neueste Version hast.
-
-    [b][color=#FF5733]📚 Was ist neu[/color][/b]
-    Ich habe einen Tab [i]Was ist neu[/i] im [i]Hauptmenü/Hilfe/Was ist neu[/i] hinzugefügt, wo du alle neuesten Änderungen und Updates des Spiels finden kannst. Bleib auf dem Laufenden!
-
-    [b][color=#FF5733]🎨 Änderungen an der Benutzeroberfläche[/color][/b]
-    Mehrere UI-Elemente wurden aktualisiert, um die Navigation klarer und intuitiver zu gestalten. Das Spiel sollte jetzt flüssiger und angenehmer zu spielen sein.
-
-    [b][color=#FF5733]👥 Mehrere Benutzer unterstützen[/color][/b]
-    Jetzt kannst du mehrere Benutzer in der App haben. Jeder Spieler kann seine eigenen Daten speichern, sodass jeder seine eigene Erfahrung machen kann.
-
-    [b][color=#FF5733]🏆 Ergebnis-Panel[/color][/b]
-    Ein neues Panel wurde hinzugefügt, um deine Ergebnisse anzuzeigen. Du kannst es finden, indem du zum [i]Ergebnisse[/i]-Tab im [i]Hauptmenü[/i] gehst.
-
-    [b][color=#FF5733]🔥 Letztes Ergebnis[/color][/b]
-    Das Spiel speichert nun dein letztes Ergebnis, sodass du leicht sehen kannst, wie du in den vorherigen Spielen abgeschnitten hast.
-
-    [b][color=#FF5733]🐞 Fehlerbehebungen[/color][/b]
-    Es wurden mehrere Fehler behoben, die die Leistung beeinträchtigten. Das Spiel sollte jetzt stabiler und ohne Unterbrechungen laufen.
-
-    [b][color=#FF5733]🚀 Weitere Verbesserungen[/color][/b]
-    Es wurden auch andere kleine Verbesserungen vorgenommen, die das Spielerlebnis und die Gesamtleistung optimieren.
-
-    Danke, dass du den Entwicklungsprozess unterstützt hast! Dein Feedback ist unglaublich wertvoll, und ich arbeite immer daran, das Spiel für alle zu verbessern. Teile gerne deine Gedanken oder Vorschläge in den Kommentaren!
-
-    [center][b]Tetracode Studio[/b][/center]

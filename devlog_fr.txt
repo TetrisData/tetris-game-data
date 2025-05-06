@@ -1,57 +1,44 @@
-[center][b][color=#FF5733]Patch 2.5.1.4[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Mise à jour majeure 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]ATTENTION : avant la mise à jour, il est recommandé de désactiver le thème de la version BE[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Nouveautés[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*ajout d’un commentaire et d’une animation lors de la destruction d’une ligne,
+*possibilité de changer la version du jeu directement depuis le jeu (fonction expérimentale – peut ne pas fonctionner correctement ; le changement de texture ne s’applique qu’à la pièce suivante, celles déjà placées ne changent pas),
+*nouveau style de boutons,
+*option pour modifier la couleur d’arrière-plan,
+*choix libre de la couleur de fond,
+*ajout d’icônes sur les boutons,
+*ajout d’une police personnalisée pour améliorer le style,
+*fenêtres d’information redimensionnées et nouvel aspect visuel,
+*nouveau logo dans le menu principal (uniquement avec arrière-plan personnalisé),
+*nouvel onglet « Créateurs » + animations,
+*possibilité de choisir la couleur de l’interface parmi 7 disponibles (thème classique aussi disponible – supprime uniquement les effets néon, n’apporte pas les anciennes textures ; l’interface peut donc être moins lisible),
+*ajout de la possibilité de faire défiler le tableau des scores.
 
-Correction du problème de double lecture de la musique dans le menu principal.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Modifications et corrections de bugs[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*corrections générales de bugs,
+*amélioration de la sélection de profil et du chargement des utilisateurs,
+*amélioration de la vérification des droits du propriétaire,
+*corrections des traductions (anglais, allemand),
+*meilleure fluidité du jeu,
+*correction d’un bug de ciblage de bouton causant des clics involontaires,
+*refonte de l’interface utilisateur pour un style plus esthétique et clair,
+*amélioration des animations et de leur fluidité,
+*améliorations générales des textes de traduction,
+*uniformisation des versions linguistiques et amélioration du système de sélection de profil.
 
-Correction de l'absence de musique dans le menu des scores.
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]En raison des changements, l’arrière-plan peut paraître légèrement plus sombre lorsque le fond coloré est désactivé.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 
-Correction de la traduction allemande dans le menu "Vérifier les mises à jour".
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Si vous trouvez un bug, contactez-nous à : tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 
-Changements subtils de l'UI, à peine perceptibles.
-
-Correction du défilement sur les appareils mobiles.
-
-Ajout d'animations pour l'ouverture du menu "Game Over".
-
-[center][b]---------------------------------------------------------[/b][/center]
-
-
-[center][b][color=#FF5733]Patch 2.5.0.4[/color][/b][/center]
-Correction d'un bug avec la fonction de vérification de version.
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Patch 2.5.0.3[/color][/b][/center]
-
-Ajout des animations d'ouverture et de fermeture du menu pause ⏸️➡️▶️.
-Changement du fond pendant le chargement du jeu 🖼️.
-[center][b]---------------------------------------------------------[/b][/center]
-[center][b][color=#FF5733]Mise à jour 2.5.0.1[/color][/b][/center]
-
-    [b][color=#FF5733]🔄 Version complète BE[/color][/b]
-    La version complète BE est maintenant disponible ! Après plusieurs corrections et l’ajout de nouvelles fonctionnalités, la version complète du jeu est prête à être téléchargée. Des changements incluent des corrections de bugs, une nouvelle interface et la possibilité de vérifier les mises à jour.
-
-    [b][color=#FF5733]⚙️ Vérifier les mises à jour[/color][/b]
-    Vous pouvez désormais facilement vérifier les mises à jour directement depuis le jeu ! Allez dans [i]Menu Principal/Paramètres/Vérifier les Mises à Jour[/i] pour vous assurer que vous avez la dernière version.
-
-    [b][color=#FF5733]📚 Quoi de neuf[/color][/b]
-    J'ai ajouté un onglet [i]Quoi de neuf[/i] dans [i]Menu Principal/Aide/Quoi de neuf[/i], où vous pouvez consulter toutes les dernières modifications et mises à jour du jeu.
-
-    [b][color=#FF5733]🎨 Modifications de l'interface utilisateur (UI)[/color][/b]
-    Plusieurs éléments de l’interface ont été mis à jour pour rendre la navigation plus fluide et intuitive. Le jeu devrait maintenant être plus agréable à jouer.
-
-    [b][color=#FF5733]👥 Support de plusieurs utilisateurs[/color][/b]
-    Vous pouvez maintenant avoir plusieurs utilisateurs dans l’application. Chaque joueur peut enregistrer ses propres données, permettant ainsi à chacun d’avoir une expérience personnalisée.
-
-    [b][color=#FF5733]🏆 Tableau des résultats[/color][/b]
-    Un nouveau panneau a été ajouté pour afficher vos scores. Pour y accéder, rendez-vous dans l’onglet [i]Résultats[/i] du [i]Menu Principal[/i].
-
-    [b][color=#FF5733]🔥 Dernier score[/color][/b]
-    Le jeu enregistre maintenant votre dernier score, ce qui facilite la comparaison avec vos précédentes parties.
-
-    [b][color=#FF5733]🐞 Corrections de bugs[/color][/b]
-    Plusieurs bugs ont été corrigés pour améliorer la stabilité du jeu.
-
-    [b][color=#FF5733]🚀 Autres améliorations[/color][/b]
-    D'autres améliorations mineures ont été apportées pour améliorer l'expérience de jeu.
-
-    Merci de suivre le développement du jeu ! Votre retour est très précieux et m'aide à améliorer constamment le jeu pour vous. N'hésitez pas à partager vos pensées dans les commentaires !
-
-    [center][b]Tetracode Studio[/b][/center]
