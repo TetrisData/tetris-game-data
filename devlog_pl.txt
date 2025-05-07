@@ -1,43 +1,59 @@
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Ogromna aktualizacja 2.6.1.5[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]UWAGA: przed aktualizacją zaleca się wyłączenie motywu wersji BE[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Nowości[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*dodano komentarz i animację po zniszczeniu linii,
-*możliwość zmiany wersji gry bezpośrednio w aplikacji (funkcja eksperymentalna, może nie działać poprawnie – zmiana tekstury dotyczy dopiero kolejnego generowanego klocka, wcześniej postawione nie zmieniają wyglądu),
-*nowy wygląd przycisków,
-*możliwość edycji koloru tła,
-*pełna dowolność w wyborze koloru tła,
-*dodano ikonki do przycisków,
-*dodano niestandardową czcionkę dla lepszego wyglądu,
-*zoptymalizowano rozmiar oraz wygląd okien informacyjnych,
-*nowe logo w menu głównym (dla niestandardowego tła),
-*nowa zakładka „Twórcy” + animacje,
-*możliwość wyboru koloru UI spośród 7 dostępnych (dostępny też klasyczny motyw – usuwa tylko efekty neonowe, nie przywraca starych tekstur, przez co UI może być mniej czytelny),
-*dodano możliwość przewijania tablicy wyników graczy.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Zmiany i poprawki błędów[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*ogólne poprawki błędów,
-*poprawiono działanie wyboru profilu i wczytywania użytkowników,
-*usprawniono weryfikację uprawnień właściciela,
-*naprawiono tłumaczenia (angielskie, niemieckie),
-*poprawiono płynność gry,
-*naprawiono błąd z nieprawidłowym zaznaczaniem przycisków (missclicki),
-*zaktualizowano wygląd UI na bardziej estetyczny i przejrzysty, pasujący do nowej stylistyki,
-*poprawiono animacje i ich płynność,
-*ogólne poprawki tekstów tłumaczeń,
-*ujednolicono wersje językowe i ulepszono wybór profilu.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]W związku ze zmianami tło może być nieco ciemniejsze, jeśli kolorowe tło jest wyłączone.[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 – Część 2[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 
+[center][b][color=#FF5733]🌟 Nowości[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Jeśli znajdziesz błąd, napisz na: tetracodestudio@gmail.com[/color][/b][/center]
+*🔊 Dodane efekty dźwiękowe dla: przegranej, otwierania menu, naciśnięcia przycisku, opadania klocka oraz jego zniszczenia,  
+*🎨 Nowy neonowy kolor: różowy.
+
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b][color=#FF5733]🐞 Poprawki błędów[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🖊️ Poprawiona tekstura pola edycji tekstu,  
+*📈 Naprawione aktualizowanie ostatniego wyniku.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Ogromna aktualizacja 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ UWAGA: przed aktualizacją zaleca się wyłączenie motywu wersji BE[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b][color=#FF5733]🌟 Nowości[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*💬 Dodano komentarz i animację po zniszczeniu linii,  
+*🧪 Możliwość zmiany wersji gry bezpośrednio w aplikacji (funkcja eksperymentalna – może nie działać poprawnie; zmiana tekstury dotyczy dopiero kolejnego generowanego klocka, wcześniej postawione nie zmieniają wyglądu),  
+*🎛️ Nowy wygląd przycisków,  
+*🎨 Możliwość edycji koloru tła,  
+*🖌️ Pełna dowolność w wyborze koloru tła,  
+*🔘 Dodano ikonki do przycisków,  
+*🔤 Dodano niestandardową czcionkę dla lepszego wyglądu,  
+*🪟 Zoptymalizowano rozmiar oraz wygląd okien informacyjnych,  
+*🖼️ Nowe logo w menu głównym (dla niestandardowego tła),  
+*👥 Nowa zakładka „Twórcy” + animacje,  
+*🎨 Możliwość wyboru koloru UI spośród 7 dostępnych (dostępny też klasyczny motyw – usuwa tylko efekty neonowe, nie przywraca starych tekstur, przez co UI może być mniej czytelny),  
+*📜 Dodano możliwość przewijania tablicy wyników graczy.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🔧 Zmiany i poprawki błędów[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🐞 Ogólne poprawki błędów,  
+*👤 Poprawiono działanie wyboru profilu i wczytywania użytkowników,  
+*🔐 Usprawniono weryfikację uprawnień właściciela,  
+*🌐 Naprawiono tłumaczenia (angielskie, niemieckie),  
+*🎮 Poprawiono płynność gry,  
+*🖱️ Naprawiono błąd z nieprawidłowym zaznaczaniem przycisków (missclicki),  
+*🖌️ Zaktualizowano wygląd UI na bardziej estetyczny i przejrzysty, pasujący do nowej stylistyki,  
+*🎞️ Poprawiono animacje i ich płynność,  
+*📝 Ogólne poprawki tekstów tłumaczeń,  
+*🌍 Ujednolicono wersje językowe i ulepszono wybór profilu.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]💡 W związku ze zmianami tło może być nieco ciemniejsze, jeśli kolorowe tło jest wyłączone.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]📧 Jeśli znajdziesz błąd, napisz na: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]

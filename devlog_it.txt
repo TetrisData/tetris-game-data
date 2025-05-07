@@ -1,43 +1,59 @@
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Aggiornamento Massiccio 2.6.1.5[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]ATTENZIONE: prima dell’aggiornamento si consiglia di disattivare il tema della versione BE[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Novità[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*aggiunto commento e animazione quando una linea viene distrutta,
-*possibilità di cambiare versione direttamente nel gioco (sperimentale – potrebbe non funzionare correttamente; la texture cambia solo nel prossimo pezzo generato, quelli già piazzati non cambiano),
-*nuovo aspetto dei pulsanti,
-*possibilità di modificare il colore dello sfondo,
-*scelta libera del colore di sfondo,
-*aggiunte icone ai pulsanti,
-*aggiunto font personalizzato per un look migliore,
-*ottimizzate le dimensioni e l’aspetto delle finestre informative,
-*nuovo logo nel menu principale (solo con sfondo personalizzato),
-*nuova scheda “Creatori” + animazioni,
-*possibilità di scegliere il colore dell’interfaccia tra 7 disponibili (è disponibile anche il tema classico – rimuove solo gli effetti al neon, non ripristina le vecchie texture; l’interfaccia può risultare meno leggibile),
-*aggiunta la possibilità di scorrere la classifica dei giocatori.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Modifiche e Correzioni di Errori[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*correzioni generali di bug,
-*migliorato il caricamento e la selezione dei profili,
-*ottimata la verifica dei permessi del proprietario,
-*corretti i testi in inglese e tedesco,
-*migliorata la fluidità del gioco,
-*corretto un bug nel rilevamento dei pulsanti che causava clic errati,
-*aggiornamento grafico dell’interfaccia per adattarsi al nuovo stile,
-*migliorate le animazioni e la loro fluidità,
-*miglioramenti generali ai testi tradotti,
-*unificazione delle versioni linguistiche e miglioramenti alla selezione del profilo.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]A causa delle modifiche, lo sfondo può apparire leggermente più scuro se il colore di sfondo è disattivato.[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Aggiornamento 2.6.1.5 – Parte 2[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 
+[center][b][color=#FF5733]🌟 Novità[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Hai trovato un errore? Scrivici a: tetracodestudio@gmail.com[/color][/b][/center]
+*🔊 Aggiunti effetti sonori per: perdita, apertura del menu, pressione del pulsante, caduta del blocco e sua distruzione.
+*🎨 Nuovo colore neon: rosa.
+
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b][color=#FF5733]🐞 Correzioni di bug[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🖊️ Corretto il texture del campo di modifica del testo.
+*📈 Corretto l'aggiornamento del punteggio finale.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Grande aggiornamento 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ ATTENZIONE: Si consiglia di disabilitare il tema della versione BE prima di aggiornare.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b][color=#FF5733]🌟 Novità[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*💬 Aggiunto commento e animazione dopo la distruzione della linea.
+*🧪 Possibilità di cambiare versione del gioco direttamente nell'app (funzione sperimentale – potrebbe non funzionare correttamente; il cambiamento di texture riguarda solo il blocco successivo generato, quelli precedentemente piazzati non cambiano).
+*🎛️ Nuovo design dei pulsanti.
+*🎨 Possibilità di modificare il colore di sfondo.
+*🖌️ Massima libertà nella scelta del colore di sfondo.
+*🔘 Aggiunti icone sui pulsanti.
+*🔤 Aggiunta una font personalizzata per un aspetto migliore.
+*🪟 Ottimizzazione delle dimensioni e dell'aspetto delle finestre informative.
+*🖼️ Nuovo logo nel menu principale (per sfondi personalizzati).
+*👥 Nuova scheda "Creatori" + animazioni.
+*🎨 Possibilità di scegliere il colore dell'interfaccia tra 7 opzioni disponibili (è disponibile anche il tema classico – rimuove solo gli effetti neon, non ripristina le vecchie texture, rendendo l'interfaccia forse meno leggibile).
+*📜 Aggiunta la possibilità di scorrere la classifica dei giocatori.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🔧 Modifiche e correzioni di bug[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🐞 Correzioni generali dei bug.
+*👤 Corretto la selezione del profilo e il caricamento degli utenti.
+*🔐 Migliorata la verifica dei permessi del proprietario.
+*🌐 Corrette le traduzioni (inglese, tedesco).
+*🎮 Migliorata la fluidità del gioco.
+*🖱️ Corretto il problema di selezione errata dei pulsanti (clic errati).
+*🖌️ Aggiornato l'aspetto dell'interfaccia utente con uno stile più estetico e chiaro, adatto alla nuova estetica.
+*🎞️ Migliorate le animazioni e la loro fluidità.
+*📝 Correzioni generali dei testi delle traduzioni.
+*🌍 Unificate le versioni linguistiche e migliorata la selezione del profilo.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]💡 A causa delle modifiche, lo sfondo potrebbe risultare un po' più scuro se lo sfondo colorato è disabilitato.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]📧 Se trovi un bug, scrivi a: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]

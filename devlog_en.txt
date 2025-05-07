@@ -1,43 +1,59 @@
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Massive Update 2.6.1.5[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]WARNING: Before updating, it is recommended to disable the BE version theme[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]New Features[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*added comment and animation when a line is destroyed,
-*ability to change the game version directly in the game (experimental – may not work properly, texture changes apply only to the next generated piece; already placed blocks retain old textures),
-*new button appearance,
-*option to edit background color,
-*freedom to choose any background color,
-*icons added to buttons,
-*custom font added for improved appearance,
-*optimized size and new layout of info windows,
-*new logo in main menu (only with custom background),
-*new “Creators” tab + animations,
-*UI color can be selected from 7 available options (classic theme also available – removes neon effects only, doesn’t restore old textures, so UI may be slightly unclear),
-*added ability to scroll the player leaderboard.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Changes and Bug Fixes[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*general bug fixes,
-*improved profile selection and user loading,
-*improved owner permissions verification,
-*fixed translations (English, German),
-*better game smoothness,
-*fixed a bug causing misclicks due to incorrect button targeting,
-*UI updated to a more aesthetic and clear look matching the new graphic style,
-*enhanced animation quality and smoothness,
-*general translation text improvements,
-*unified language versions for consistent meaning; improved profile selection.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Due to changes, the background may appear slightly darker when colored background is disabled.[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.1.5 – Part 2[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 
+[center][b][color=#FF5733]🌟 New Features[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]If you find a bug, email us: tetracodestudio@gmail.com[/color][/b][/center]
+*🔊 Added sound effects for: losing, opening the menu, button press, block falling, and its destruction.
+*🎨 New neon color: pink.
+
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b][color=#FF5733]🐞 Bug Fixes[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🖊️ Fixed the texture of the text editing field.
+*📈 Fixed the updating of the last score.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Huge Update 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ WARNING: It is recommended to disable the BE version theme before updating.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b][color=#FF5733]🌟 New Features[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*💬 Added comment and animation after line destruction.
+*🧪 Ability to change the game version directly within the app (experimental feature – may not work properly; texture change only applies to the next generated block, previously placed ones won’t change).
+*🎛️ New button design.
+*🎨 Ability to edit the background color.
+*🖌️ Full freedom in choosing the background color.
+*🔘 Added icons to buttons.
+*🔤 Added a custom font for better appearance.
+*🪟 Optimized the size and appearance of informational windows.
+*🖼️ New logo in the main menu (for custom backgrounds).
+*👥 New "Creators" tab + animations.
+*🎨 Ability to choose a UI color from 7 available options (classic theme also available – removes only neon effects, does not restore old textures, so the UI may be less readable).
+*📜 Added the ability to scroll the player leaderboard.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🔧 Changes and Bug Fixes[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🐞 General bug fixes.
+*👤 Fixed the profile selection and user loading.
+*🔐 Improved owner permission verification.
+*🌐 Fixed translations (English, German).
+*🎮 Improved game smoothness.
+*🖱️ Fixed the issue with incorrect button selections (missclicks).
+*🖌️ Updated UI appearance to be more aesthetic and clear, fitting the new style.
+*🎞️ Improved animations and their smoothness.
+*📝 General translation text fixes.
+*🌍 Unified language versions and improved profile selection.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]💡 Due to changes, the background may be a little darker if the colored background is turned off.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]📧 If you find a bug, email: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]

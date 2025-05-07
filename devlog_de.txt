@@ -1,44 +1,59 @@
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Großes Update 2.6.1.5[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]ACHTUNG: Vor dem Update wird empfohlen, das BE-Design zu deaktivieren[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Neuheiten[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*Kommentar und Animation hinzugefügt, wenn eine Linie zerstört wird,
-*Möglichkeit, die Spielversion direkt im Spiel zu ändern (experimentell – funktioniert möglicherweise nicht korrekt; Textur ändert sich nur beim nächsten Block, bereits gesetzte bleiben unverändert),
-*neues Aussehen der Schaltflächen,
-*Hintergrundfarbe kann bearbeitet werden,
-*freie Wahl der Hintergrundfarbe,
-*Schaltflächen haben jetzt Symbole,
-*benutzerdefinierte Schriftart zur Verbesserung des Designs hinzugefügt,
-*optimierte Größe und neues Layout der Infofenster,
-*neues Logo im Hauptmenü (nur mit benutzerdefiniertem Hintergrund),
-*neuer „Creator“-Tab + Animationen,
-*UI-Farbe aus 7 verfügbaren Optionen wählbar (klassisches Design verfügbar – entfernt nur Neoneffekte, alte Texturen werden nicht wiederhergestellt, UI kann dadurch schwer lesbar sein),
-*Scoreboard kann jetzt gescrollt werden.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Änderungen und Fehlerbehebungen[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*allgemeine Fehlerbehebungen,
-*Profilauswahl und Benutzerladen verbessert,
-*Rechteüberprüfung des Besitzers optimiert,
-*Übersetzungen (Englisch, Deutsch) korrigiert,
-*flüssigeres Gameplay,
-*Fehler bei der Schaltflächenerkennung (Fehlklicks) behoben,
-*UI-Design moderner und übersichtlicher gestaltet,
-*Animationen optimiert,
-*allgemeine Textverbesserungen bei Übersetzungen,
-*vereinheitlichte Sprachversionen und verbessertes Profilwahlmenü.
-
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Durch Änderungen kann der Hintergrund bei deaktivierter Farboption leicht dunkler wirken.[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.1.5 – Teil 2[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 
+[center][b][color=#FF5733]🌟 Neue Funktionen[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Fehler gefunden? Schreib uns: tetracodestudio@gmail.com[/color][/b][/center]
+*🔊 Hinzugefügte Soundeffekte für: Verlust, Öffnen des Menüs, Drücken der Schaltfläche, Block fällt und wird zerstört.
+*🎨 Neuer Neonfarbton: pink.
+
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]Tetracode Studio[/color][/b][/center]
+[center][b][color=#FF5733]🐞 Fehlerbehebungen[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🖊️ Behebung der Textur des Textbearbeitungsfeldes.
+*📈 Behebung des Updates des letzten Punktestands.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Großes Update 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ WARNUNG: Es wird empfohlen, das BE-Versionsthema vor dem Update zu deaktivieren.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 
+[center][b][color=#FF5733]🌟 Neue Funktionen[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*💬 Hinzugefügte Kommentare und Animationen nach dem Zerstören einer Reihe.
+*🧪 Möglichkeit, die Spielversion direkt in der App zu ändern (experimentelle Funktion – funktioniert möglicherweise nicht richtig; Texturänderungen betreffen nur den nächsten generierten Block, bereits platzierte Blocks ändern sich nicht).
+*🎛️ Neues Design der Schaltflächen.
+*🎨 Möglichkeit, die Hintergrundfarbe zu bearbeiten.
+*🖌️ Volle Freiheit bei der Wahl der Hintergrundfarbe.
+*🔘 Hinzufügen von Symbolen zu Schaltflächen.
+*🔤 Hinzufügen einer benutzerdefinierten Schriftart für ein besseres Aussehen.
+*🪟 Optimierung der Größe und Darstellung von Informationsfenstern.
+*🖼️ Neues Logo im Hauptmenü (für benutzerdefinierte Hintergründe).
+*👥 Neuer Tab "Creators" + Animationen.
+*🎨 Möglichkeit, die Benutzeroberflächenfarbe aus 7 verfügbaren Optionen auszuwählen (klassisches Design auch verfügbar – entfernt nur Neon-Effekte, stellt jedoch keine alten Texturen wieder her, was die Benutzeroberfläche weniger lesbar machen könnte).
+*📜 Möglichkeit, die Spieler-Bestenliste zu scrollen.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🔧 Änderungen und Fehlerbehebungen[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🐞 Allgemeine Fehlerbehebungen.
+*👤 Behebung der Profilwahl und Benutzerladen.
+*🔐 Verbesserung der Inhaberberechtigungsprüfung.
+*🌐 Behebung von Übersetzungen (Englisch, Deutsch).
+*🎮 Verbesserung der Spielgeschmeidigkeit.
+*🖱️ Behebung des Problems der falschen Schaltflächenwahl (Missclicks).
+*🖌️ Aktualisierung des UI-Designs auf ein ästhetischeres und klareres Erscheinungsbild, passend zum neuen Stil.
+*🎞️ Verbesserte Animationen und ihre Geschmeidigkeit.
+*📝 Allgemeine Übersetzungsfehlerbehebungen.
+*🌍 Vereinheitlichung der Sprachversionen und Verbesserung der Profilauswahl.
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]💡 Aufgrund der Änderungen könnte der Hintergrund etwas dunkler erscheinen, wenn der bunte Hintergrund deaktiviert ist.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]📧 Wenn du einen Fehler findest, sende eine E-Mail an: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
