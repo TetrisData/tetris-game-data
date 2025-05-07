@@ -1,5 +1,5 @@
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 – Część 2[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 – Część 2.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 
 [center][b][color=#FF5733]🌟 Nowości[/color][/b][/center]
@@ -13,8 +13,11 @@
 *🖊️ Poprawiona tekstura pola edycji tekstu,  
 *📈 Naprawione aktualizowanie ostatniego wyniku.
 
+[center][b]--------------------------------------[/b][/center]Będzie jeszcze część 3. wnoszące resztę nowości i poprawek.
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🚀 Ogromna aktualizacja 2.6.1.5[/color][/b][/center]
+
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Ogromna aktualizacja 2.6.1.5 część 1.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]⚠️ UWAGA: przed aktualizacją zaleca się wyłączenie motywu wersji BE[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
