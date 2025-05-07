@@ -12,9 +12,9 @@
 [center][b]--------------------------------------[/b][/center]
 *🖊️ Fixed the texture of the text editing field.
 *📈 Fixed the updating of the last score.
-[center][b]--------------------------------------[/b][/center]there will be another part of the update which will introduce the remaining new features prepared.
+[center][b]--------------------------------------[/b][/center][color=#FF5733][b]There will be another part of the update which will introduce the remaining new features prepared.[b][/color][center]
 [center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
+
 [center][b][color=#FF5733]🚀 Huge Update 2.6.1.5 part 1[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]⚠️ WARNING: It is recommended to disable the BE version theme before updating.[/color][/b][/center]
