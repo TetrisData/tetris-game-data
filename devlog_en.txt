@@ -1,60 +1,108 @@
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.1.5 - part 3.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Update 2.6.1.5 – Part 2[/color][/b][/center]
+[center][b][color=#FF5733]🐞 Bug and performance fixes[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
-[center][b][color=#FF5733]🌟 New Features[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-*🔊 Added sound effects for: losing, opening the menu, button press, block falling, and its destruction.
+*changed visibility of UI elements in the profile selection menu
+*optimized effects when destroying lines, which improves game performance and stability
+*fixed a bug with the block position highlight not appearing properly on higher lines
+*improved pink theme to work better with info windows
+*fixed overlapping text bug in error windows
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 What's New[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*added a discord button to the main menu
+*new neon color: brown
+*added a automatic download update (only after check versin)
+*new version on iOS(coming soon)
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ IMPORTANT[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]With the New Update – Important Information
+With the release of the latest version of our game, we've introduced several technical improvements aimed at enhancing your overall experience. The most significant change is the transition from a debug build to a proper release version. This important step brings many advantages, including:
+*Reduced app size
+*Improved performance and faster loading times
+*Increased stability and security
+*Better compatibility with devices and app stores
+*However, this change also means that we had to switch the signing key, which unfortunately makes it impossible to carry over saved progress from the previous version. We truly apologize for this inconvenience.
+Thank you for your patience and support – it’s thanks to you that we can continue improving the game. As a small token of appreciation, we’re planning to include a gift in one of the upcoming updates.
+Warm regards,[/color][/b][/center]
+[center][b][color=#FF5733]The Tetracode Studio Team[/color][/b][/center]
+[center][b]The iOS version will not receive regular updates.
+The only option to update is to purchase the source code, which gives you access to the files and the latest features and content, allowing you to update the game yourself.
+The same applies to Android and iOS users, where due to system limitations, the function of uploading your own background does not work without specialized plugins, which are unfortunately no longer supported or available.[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*ability to upload your own background (⚠️only on PC - on Android and iOS this option is invisible due to system limitations)
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ ANNOUNCEMENT[/color][/b][/center]
+[center][b]----------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ If you know how to program scripts (e.g. GodotGetImage) for Godot 4.x, allowing you to upload your own files to the game - write to the email: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.1.5 - Part 2[/color][/b][/center]
+[center][b]----------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 News[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🔊 ​​Added sound effects for: losing, opening the menu, pressing the button, falling block and destroying it,
 *🎨 New neon color: pink.
-
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🐞 Bug Fixes[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-*🖊️ Fixed the texture of the text editing field.
-*📈 Fixed the updating of the last score.
-[center][b]--------------------------------------[/b][/center][color=#FF5733]There will be another part of the update which will introduce the remaining new features prepared.[/color][center]
+*🖊️ Improved text edit box texture,
+*📈 Fixed last score updating.
+[center][b]-------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
-[center][b][color=#FF5733]🚀 Huge Update 2.6.1.5 part 1[/color][/b][/center]
+[center][b][color=#FF5733]🚀 Massive update 2.6.1.5[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ WARNING: It is recommended to disable the BE version theme before updating.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
-[center][b][color=#FF5733]🌟 New Features[/color][/b][/center]
+[center][b][color=#FF5733]⚠️ NOTE: It is recommended to disable the theme of the version before updating BE[/color][/b][/center]
+[center][b]----------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
-*💬 Added comment and animation after line destruction.
-*🧪 Ability to change the game version directly within the app (experimental feature – may not work properly; texture change only applies to the next generated block, previously placed ones won’t change).
-*🎛️ New button design.
-*🎨 Ability to edit the background color.
-*🖌️ Full freedom in choosing the background color.
-*🔘 Added icons to buttons.
-*🔤 Added a custom font for better appearance.
-*🪟 Optimized the size and appearance of informational windows.
-*🖼️ New logo in the main menu (for custom backgrounds).
-*👥 New "Creators" tab + animations.
-*🎨 Ability to choose a UI color from 7 available options (classic theme also available – removes only neon effects, does not restore old textures, so the UI may be less readable).
-*📜 Added the ability to scroll the player leaderboard.
-
+[center][b][color=#FF5733]🌟 News[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🔧 Changes and Bug Fixes[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-*🐞 General bug fixes.
-*👤 Fixed the profile selection and user loading.
-*🔐 Improved owner permission verification.
-*🌐 Fixed translations (English, German).
-*🎮 Improved game smoothness.
-*🖱️ Fixed the issue with incorrect button selections (missclicks).
-*🖌️ Updated UI appearance to be more aesthetic and clear, fitting the new style.
-*🎞️ Improved animations and their smoothness.
-*📝 General translation text fixes.
+*💬 Added comment and animation after destroying a line,
+*🧪 Ability to change the game version directly in the application (experimental function - may not work correctly; changing the texture only applies to the next generated block, previously placed do not change the appearance),
+*🎛️ New button appearance,
+*🎨 Ability to edit the background color,
+*🖌️ Full freedom in choosing the background color,
+*🔘 Added icons to buttons,
+*🔤 Added a custom font for a better look,
+*🪟 Optimized the size and appearance of information windows,
+*🖼️ New logo in the main menu (for custom background),
+*👥 New "Creators" tab + animations,
+*🎨 Ability to choose the UI color from 7 available (classic theme also available - only removes neon effects, does not restore old textures, which may make the UI less legible),
+*📜 Added ability to scroll the player scoreboard.
+[center][b]-------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🔧 Changes and bug fixes[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*🐞 General bug fixes,
+*👤 Improved profile selection and user loading,
+*🔐 Improved owner permission verification,
+*🌐 Fixed translations (English, German),
+*🎮 Improved game flow,
+*🖱️ Fixed a bug with incorrect button selection (missclicks),
+*🖌️ Updated the UI look to be more aesthetic and clear, matching the new style,
+*🎞️ Improved animations and their smoothness,
+*📝 General corrections to translation texts,
 *🌍 Unified language versions and improved profile selection.
-
+[center][b]-------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]💡 Due to changes, the background may be a little darker if the colored background is turned off.[/color][/b][/center]
+[center][b][color=#FF5733]💡 Due to changes, the background may be slightly darker if the colored background is disabled.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]📧 If you find a bug, email: tetracodestudio@gmail.com[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]📧 If you find an error, please write to: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+[center][b]-----------------------[/b][/center]

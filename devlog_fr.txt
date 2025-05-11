@@ -1,59 +1,148 @@
-[center][b]--------------------------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Mise à jour 2.6.1.5 - partie 3.[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]🐞 Corrections de bugs et de performances[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+
+modification de la visibilité des éléments de l'interface utilisateur dans le menu de sélection de profil
+
+optimisation des effets lors de la destruction de lignes, ce qui améliore les performances et la stabilité du jeu
+
+correction d'un bug avec la surbrillance de la position du bloc qui n'apparaissait pas correctement sur les lignes supérieures
+
+thème rose amélioré pour mieux fonctionner avec les fenêtres d'informations
+
+correction du bug de chevauchement des textes dans les fenêtres d'erreur
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Actualités[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+
+ajout du bouton Discord dans le menu principal
+
+nouvelle couleur néon : marron
+
+nouvelle version pour iOS
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ IMPORTANT[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]Nouvelle mise à jour – Informations importantes[/color][/b][/center]
+[center][color=#FF5733]Avec la sortie de la dernière version de notre jeu, nous avons apporté plusieurs améliorations techniques visant à améliorer votre expérience globale.
+Le changement le plus important est le passage d'une version de débogage à une véritable version finale. Cette étape cruciale apporte de nombreux avantages, notamment :
+
+Réduction de la taille de l'application
+
+Meilleures performances et temps de chargement plus rapides
+
+Stabilité et sécurité accrues
+
+Meilleure compatibilité avec les appareils et les boutiques d'applications
+
+Cependant, ce changement a nécessité une modification de la clé de signature, ce qui rend malheureusement impossible la récupération de la progression enregistrée dans la version précédente. Nous nous excusons sincèrement pour ce désagrément.
+Merci pour votre patience et votre soutien – c’est grâce à vous que nous pouvons continuer à améliorer le jeu. En guise de remerciement, nous prévoyons d’inclure un petit cadeau dans l’une des prochaines mises à jour.
+Cordialement,[/color][/center]
+[center][b][color=#FF5733]L’équipe de Tetracode Studio[/color][/b][/center]
+[center][b]La version iOS ne recevra plus de mises à jour régulières.
+La seule option de mise à jour consiste à acheter le code source, qui vous donne accès aux fichiers et aux dernières fonctionnalités et contenus, vous permettant de mettre à jour le jeu vous-même.
+Il en va de même pour les utilisateurs d'Android et d'iOS, où, en raison des limitations du système, la fonction de téléchargement de votre propre arrière-plan ne fonctionne pas sans plugins spécialisés, qui ne sont malheureusement plus pris en charge ni disponibles.[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+
+possibilité de télécharger votre propre arrière-plan (⚠️ uniquement sur PC - sur Android et iOS, cette option est invisible en raison des limitations du système)
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ ANNONCE[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ Si vous savez programmer des scripts (par exemple GodotGetImage) pour Godot 4.x, vous permettant de télécharger vos propres fichiers dans le jeu, écrivez à l'adresse e-mail : tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Mise à jour 2.6.1.5 – Partie 2[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Actualités[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
 
-[center][b][color=#FF5733]🌟 Nouveautés[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*🔊 Ajout des effets sonores pour : la défaite, l’ouverture du menu, l’appui sur un bouton, la chute du bloc et sa destruction.
-*🎨 Nouvelle couleur néon : rose.
+🔊 Ajout d'effets sonores pour : perdre, ouvrir le menu, appuyer sur un bouton, faire tomber un bloc et sa destruction
 
-[center][b]--------------------------------------[/b][/center]
+🎨 Nouvelle couleur néon : rose
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]🐞 Corrections de bugs[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*🖊️ Correction de la texture du champ d’édition de texte.
-*📈 Correction de la mise à jour du dernier score.
+[center][b]-----------------------[/b][/center]
 
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🚀 Mise à jour majeure 2.6.1.5[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ ATTENTION : il est recommandé de désactiver le thème de la version BE avant de procéder à la mise à jour.[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+🖊️ Texture du champ d'édition de texte améliorée
 
-[center][b][color=#FF5733]🌟 Nouveautés[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*💬 Ajout d'un commentaire et d'une animation après la destruction d'une ligne.
-*🧪 Possibilité de changer la version du jeu directement dans l'application (fonction expérimentale – peut ne pas fonctionner correctement ; le changement de texture ne concerne que le bloc suivant généré, les blocs déjà placés ne changent pas).
-*🎛️ Nouveau design des boutons.
-*🎨 Possibilité de modifier la couleur de fond.
-*🖌️ Pleine liberté de choix de la couleur de fond.
-*🔘 Ajout d'icônes sur les boutons.
-*🔤 Ajout d’une police personnalisée pour un meilleur rendu.
-*🪟 Optimisation de la taille et de l'apparence des fenêtres d'informations.
-*🖼️ Nouveau logo dans le menu principal (pour les fonds personnalisés).
-*👥 Nouvel onglet « Créateurs » + animations.
-*🎨 Possibilité de choisir la couleur de l'interface parmi 7 options disponibles (thème classique aussi disponible – supprime uniquement les effets néon, ne restaure pas les anciennes textures, ce qui rend l'interface peut-être moins lisible).
-*📜 Ajout de la possibilité de faire défiler le tableau des scores des joueurs.
+📈 Correction de la dernière mise à jour du score
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Mise à jour massive 2.6.1.5[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ REMARQUE : il est recommandé de désactiver le thème BE avant la mise à jour[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Actualités[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
 
-[center][b]--------------------------------------[/b][/center]
+💬 Ajout de commentaires et d'animation après la destruction de la ligne
+
+🧪 Possibilité de changer la version du jeu directement dans l'application (fonction expérimentale - peut ne pas fonctionner correctement ; le changement de texture s'applique uniquement au prochain bloc généré, ceux placés précédemment ne changent pas d'apparence)
+
+🎛️ Nouvelle conception de bouton
+
+🎨 Possibilité de modifier la couleur d'arrière-plan
+
+🖌️ Liberté totale dans le choix de la couleur de fond
+
+🔘 Ajout d'icônes aux boutons
+
+🔤 Police personnalisée ajoutée pour une meilleure apparence
+
+🪟 Optimisation de la taille et de l'apparence des fenêtres d'information
+
+🖼️ Nouveau logo dans le menu principal (pour la personnalisation)
+
+👥 Nouvel onglet "Créateurs" + animations
+
+🎨 Possibilité de choisir une couleur d'interface utilisateur parmi 7 disponibles (un thème classique est également disponible - il supprime uniquement les effets néon, ne restaure pas les anciennes textures, ce qui peut rendre l'interface utilisateur moins lisible)
+
+📜 Ajout de la possibilité de faire défiler le classement des joueurs
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]🔧 Modifications et corrections de bugs[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*🐞 Corrections de bugs générales.
-*👤 Correction de la sélection du profil et du chargement des utilisateurs.
-*🔐 Amélioration de la vérification des autorisations du propriétaire.
-*🌐 Correction des traductions (anglais, allemand).
-*🎮 Amélioration de la fluidité du jeu.
-*🖱️ Correction du problème de sélection incorrecte des boutons (clics involontaires).
-*🖌️ Mise à jour de l'apparence de l'interface pour un aspect plus esthétique et clair, adapté au nouveau style.
-*🎞️ Amélioration des animations et de leur fluidité.
-*📝 Correction générale des textes des traductions.
-*🌍 Unification des versions linguistiques et amélioration de la sélection de profil.
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
 
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]💡 En raison des changements, l'arrière-plan peut être un peu plus sombre si l'arrière-plan coloré est désactivé.[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+🐞 Corrections de bugs généraux
 
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]📧 Si vous trouvez un bug, envoyez un e-mail à : tetracodestudio@gmail.com[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+👤 Amélioration des performances de sélection de profil et de chargement d'utilisateur
+
+🔐 Vérification améliorée des autorisations du propriétaire
+
+🌐 Traductions corrigées (anglais, allemand)
+
+🎮 Gameplay amélioré
+
+🖱️ Correction d'un bug avec une sélection de bouton incorrecte (clics manqués)
+
+🖌️ Mise à jour de l'apparence de l'interface utilisateur pour qu'elle soit plus esthétique et claire, correspondant au nouveau style
+
+🎞️ Animations améliorées et leur fluidité
+
+📝 Corrections générales des textes de traduction
+
+🌍 Versions linguistiques unifiées et sélection de profil améliorée
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]💡 En raison de modifications, l'arrière-plan peut être légèrement plus sombre si l'arrière-plan coloré est désactivé.[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b]-----------------------[/b][/center]
+[center][b][color=#FF5733]📧 Si vous trouvez un bug, veuillez écrire à : tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
+[center][b]-----------------------[/b][/center]

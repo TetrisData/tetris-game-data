@@ -1,26 +1,75 @@
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 – Część 2.[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 - część 3.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
+[center][b][color=#FF5733]🐞 Poprawki błędów i wydajności[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*zmiana z widocznością elementó UI w menu wyboru profilu
+*zoptymalizowano efekty przy niszczeniu linii, co poprawia wydajność gry i jej stabilność
+*naprawiono błąd podświetlenia pozycji klocka, który nie pojawiał się prawidłowo na wyższych liniach
+*ulepszono różowy motyw, aby lepiej współgrał z oknami informacyjnymi
+*naprawiono błąd nakładających się napisów w oknach z błędami
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Nowości[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*dodano w menu głównym przycisk do discorda
+*nowy neonowy kolor: brąz
+*dodana zastała opcja automatycznego pobierania aktualizacji (dopiero po sprawdzeniu wersji)
+*nowa wersja na iOS(wkrótce)
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ WAŻNE[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]Nowa aktualizacja – ważne informacje
+Wraz z wydaniem najnowszej wersji naszej gry wprowadziliśmy kilka ulepszeń technicznych mających na celu poprawę Twoich wrażeń z rozgrywki.
+Najważniejszą zmianą jest przejście z wersji debug na pełnoprawną wersję wydania. Ten ważny krok niesie ze sobą wiele korzyści, w tym:
+*Zmniejszony rozmiar aplikacji
+*Lepsza wydajność i szybsze ładowanie
+*Większa stabilność i bezpieczeństwo
+*Lepsza kompatybilność z urządzeniami i sklepami z aplikacjami
+Niestety, ta zmiana wiązała się również z koniecznością zmiany klucza podpisującego, co uniemożliwia przeniesienie zapisanych postępów z poprzedniej wersji. Bardzo przepraszamy za tę niedogodność.
+Dziękujemy za Twoją cierpliwość i wsparcie – to dzięki Tobie możemy stale ulepszać naszą grę. W ramach podziękowania planujemy dodać drobny prezent w jednej z nadchodzących aktualizacji.
+Pozdrawiamy serdecznie,[/color][/b][/center]
+[center][b][color=#FF5733]Zespół Tetracode Studio[/color][/b][/center]
+[center][b]Wersja iOS nie będzie regularnie otrzymywać dalszych aktualizacji.
+Jedyną opcją aktualizacji jest zakup kodu źródłowego, co umożliwia dostęp do plików oraz najnowszych funkcji i treści, pozwalając samodzielnie aktualizować grę.
+To samo dotyczy użytkowników Androida i iOS, gdzie ze względu na ograniczenia systemowe funkcja wgrywania własnego tła nie działa bez specjalistycznych pluginów, które niestety nie są już wspierane lub dostępne.[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+*możliwość wgrania własnego tła (⚠️tylko na PC — na Androidzie i iOS opcja ta jest niewidoczna z powodu ograniczeń systemowych)
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ OGŁOSZENIE[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ Jeżeli znasz się na programowaniu skryptów (np. GodotGetImage) dla Godot 4.x, umożliwiających wgrywanie własnych plików do gry — napisz na maila: tetracodestudio@gmail.com[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 – Część 2[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🌟 Nowości[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 *🔊 Dodane efekty dźwiękowe dla: przegranej, otwierania menu, naciśnięcia przycisku, opadania klocka oraz jego zniszczenia,  
 *🎨 Nowy neonowy kolor: różowy.
-
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🐞 Poprawki błędów[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 *🖊️ Poprawiona tekstura pola edycji tekstu,  
 *📈 Naprawione aktualizowanie ostatniego wyniku.
-
-[center][color=#FF5733]--------------------------------------[/color][/center]Będzie jeszcze część 3. wnoszące resztę nowości i poprawek.
 [center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🚀 Ogromna aktualizacja 2.6.1.5 część 1.[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
+[center][b][color=#FF5733]🚀 Ogromna aktualizacja 2.6.1.5[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]⚠️ UWAGA: przed aktualizacją zaleca się wyłączenie motywu wersji BE[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
+[center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🌟 Nowości[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 *💬 Dodano komentarz i animację po zniszczeniu linii,  
 *🧪 Możliwość zmiany wersji gry bezpośrednio w aplikacji (funkcja eksperymentalna – może nie działać poprawnie; zmiana tekstury dotyczy dopiero kolejnego generowanego klocka, wcześniej postawione nie zmieniają wyglądu),  
@@ -34,9 +83,10 @@
 *👥 Nowa zakładka „Twórcy” + animacje,  
 *🎨 Możliwość wyboru koloru UI spośród 7 dostępnych (dostępny też klasyczny motyw – usuwa tylko efekty neonowe, nie przywraca starych tekstur, przez co UI może być mniej czytelny),  
 *📜 Dodano możliwość przewijania tablicy wyników graczy.
-
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🔧 Zmiany i poprawki błędów[/color][/b][/center]
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 *🐞 Ogólne poprawki błędów,  
 *👤 Poprawiono działanie wyboru profilu i wczytywania użytkowników,  
@@ -48,11 +98,10 @@
 *🎞️ Poprawiono animacje i ich płynność,  
 *📝 Ogólne poprawki tekstów tłumaczeń,  
 *🌍 Ujednolicono wersje językowe i ulepszono wybór profilu.
-
+[center][b]--------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]💡 W związku ze zmianami tło może być nieco ciemniejsze, jeśli kolorowe tło jest wyłączone.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
-
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]📧 Jeśli znajdziesz błąd, napisz na: tetracodestudio@gmail.com[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
