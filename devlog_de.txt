@@ -1,3 +1,21 @@
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.6.8[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🐞 Fehlerbehebungen[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Giveaway auf Discord[/color][/b][/center]
+[center]Erhalte kostenlos einen SourceCode-Key und die Vollversion des Spiels! Schnell sein lohnt sich – die Codes sind bald abgelaufen oder bereits eingelöst.[/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Änderungen:[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+* Standard-UI-Design ist jetzt neonblau statt klassisch  
+* Verbesserter Linienzerstörungseffekt  
+* Kleine UI-Anpassungen und Optimierungen  
+[center][b]-------------------------------------[/b][/center]
 [center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Update 2.6.1.5 – Teil 3.[/color][/b][/center]
 [center][b]-----------------------[/b][/center]

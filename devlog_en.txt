@@ -1,4 +1,22 @@
 [center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.6.8[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🐞 Bug Fixes[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Giveaway on Discord[/color][/b][/center]
+[center]You can get a SourceCode key and the full version of the game for free! Hurry up – codes will expire or be used quickly.[/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Changes:[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+* The default UI theme is now neon blue instead of the classic one  
+* Improved line destruction effect  
+* Minor UI improvements and adjustments  
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Update 2.6.1.5 - part 3.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🐞 Bug and performance fixes[/color][/b][/center]

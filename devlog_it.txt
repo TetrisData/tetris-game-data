@@ -1,3 +1,21 @@
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Aggiornamento 2.6.6.8[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🐞 Correzioni di bug[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Giveaway su Discord[/color][/b][/center]
+[center]Puoi ottenere gratuitamente un codice SourceCode e la versione completa del gioco! Affrettati – i codici scadranno o verranno utilizzati rapidamente.[/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Modifiche:[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+* Il tema UI predefinito è ora il blu neon invece dell'interfaccia classica  
+* Effetto migliorato per la distruzione delle linee  
+* Piccoli miglioramenti all'interfaccia utente  
+[center][b]-------------------------------------[/b][/center]
 [center][b]-----------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Aggiornamento 2.6.1.5 - parte 3.[/color][/b][/center]
 [center][b]-----------------------[/b][/center]

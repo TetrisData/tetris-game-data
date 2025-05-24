@@ -1,3 +1,21 @@
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Aktualizacja 2.6.6.8[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🐞 Poprawki błędów[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🆕 Rozdanie na Discordzie[/color][/b][/center]
+[center]Za darmo można otrzymać kod na SourceCode oraz pełną wersję gry! Warto się pospieszyć, ponieważ kody szybko staną się nieaktywne lub zostaną wykorzystane.[/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]🌟 Zmiany:[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+* Domyślnym motywem interfejsu jest teraz neonowy niebieski zamiast klasycznego UI  
+* Ulepszony efekt niszczenia linii  
+* Ogólne, drobne poprawki w interfejsie użytkownika  
+[center][b]-------------------------------------[/b][/center]
 [center][b]--------------------------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Aktualizacja 2.6.1.5 - część 3.[/color][/b][/center]
 [center][b]--------------------------------------[/b][/center]
