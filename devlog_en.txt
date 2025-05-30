@@ -1,126 +1,89 @@
 [center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Update 2.6.6.8[/color][/b][/center]
+[center][b][color=#FF5733]🆕 Update 2.6.8.1[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center]Join our [b]Discord[/b] where we’re giving away game keys! 🔑[/center]
+[center]Among the available keys, [b]3 include full access to the source code! 💻[/b][/center]
+[center]To join, simply click the [b]Discord[/b] button in the main game menu! 🎮[/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🐞 Bug Fixes[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Giveaway on Discord[/color][/b][/center]
-[center]You can get a SourceCode key and the full version of the game for free! Hurry up – codes will expire or be used quickly.[/center]
+[center][b][color=#FF5733]🐞 Bug Fixes and Improvements[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🌟 Changes:[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b]-------------------------------------[/b][/center]
-* The default UI theme is now neon blue instead of the classic one  
-* Improved line destruction effect  
-* Minor UI improvements and adjustments  
+[center][b][color=#FF5733]⚠️ Important: After the update, all previous settings (e.g. music, theme, etc.) will be reset.
+This is due to changes in the naming system used for data storage. 🔄[/color][/b][/center]
+🆕 New app icon (the colors are completely random and are meant to refer to the "TETRIS" inscription in neon style)📱
 [center][b]-------------------------------------[/b][/center]
+🔊 Fixed missing sounds in some scenes 🎵
 [center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Update 2.6.1.5 - part 3.[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🐞 Bug and performance fixes[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*changed visibility of UI elements in the profile selection menu
-*optimized effects when destroying lines, which improves game performance and stability
-*fixed a bug with the block position highlight not appearing properly on higher lines
-*improved pink theme to work better with info windows
-*fixed overlapping text bug in error windows
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🌟 What's New[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*added a discord button to the main menu
-*new neon color: brown
-*added a automatic download update (only after check versin)
-*new version on iOS(coming soon)
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ IMPORTANT[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]With the New Update – Important Information
-With the release of the latest version of our game, we've introduced several technical improvements aimed at enhancing your overall experience. The most significant change is the transition from a debug build to a proper release version. This important step brings many advantages, including:
-*Reduced app size
-*Improved performance and faster loading times
-*Increased stability and security
-*Better compatibility with devices and app stores
-*However, this change also means that we had to switch the signing key, which unfortunately makes it impossible to carry over saved progress from the previous version. We truly apologize for this inconvenience.
-Thank you for your patience and support – it’s thanks to you that we can continue improving the game. As a small token of appreciation, we’re planning to include a gift in one of the upcoming updates.
-Warm regards,[/color][/b][/center]
-[center][b][color=#FF5733]The Tetracode Studio Team[/color][/b][/center]
-[center][b]The iOS version will not receive regular updates.
-The only option to update is to purchase the source code, which gives you access to the files and the latest features and content, allowing you to update the game yourself.
-The same applies to Android and iOS users, where due to system limitations, the function of uploading your own background does not work without specialized plugins, which are unfortunately no longer supported or available.[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*ability to upload your own background (⚠️only on PC - on Android and iOS this option is invisible due to system limitations)
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ ANNOUNCEMENT[/color][/b][/center]
-[center][b]----------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ If you know how to program scripts (e.g. GodotGetImage) for Godot 4.x, allowing you to upload your own files to the game - write to the email: tetracodestudio@gmail.com[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Update 2.6.1.5 - Part 2[/color][/b][/center]
-[center][b]----------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🌟 News[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*🔊 ​​Added sound effects for: losing, opening the menu, pressing the button, falling block and destroying it,
-*🎨 New neon color: pink.
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🐞 Bug Fixes[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*🖊️ Improved text edit box texture,
-*📈 Fixed last score updating.
+🛠️ Improved some animations ✨
 [center][b]-------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🚀 Massive update 2.6.1.5[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ NOTE: It is recommended to disable the theme of the version before updating BE[/color][/b][/center]
-[center][b]----------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🌟 News[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*💬 Added comment and animation after destroying a line,
-*🧪 Ability to change the game version directly in the application (experimental function - may not work correctly; changing the texture only applies to the next generated block, previously placed do not change the appearance),
-*🎛️ New button appearance,
-*🎨 Ability to edit the background color,
-*🖌️ Full freedom in choosing the background color,
-*🔘 Added icons to buttons,
-*🔤 Added a custom font for a better look,
-*🪟 Optimized the size and appearance of information windows,
-*🖼️ New logo in the main menu (for custom background),
-*👥 New "Creators" tab + animations,
-*🎨 Ability to choose the UI color from 7 available (classic theme also available - only removes neon effects, does not restore old textures, which may make the UI less legible),
-*📜 Added ability to scroll the player scoreboard.
+🌐 Fixed language selection menu 🌍
 [center][b]-------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]🔧 Changes and bug fixes[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-*🐞 General bug fixes,
-*👤 Improved profile selection and user loading,
-*🔐 Improved owner permission verification,
-*🌐 Fixed translations (English, German),
-*🎮 Improved game flow,
-*🖱️ Fixed a bug with incorrect button selection (missclicks),
-*🖌️ Updated the UI look to be more aesthetic and clear, matching the new style,
-*🎞️ Improved animations and their smoothness,
-*📝 General corrections to translation texts,
-*🌍 Unified language versions and improved profile selection.
+🛠️ Fixed bug loading “Bolesław” release selection state during gameplay 🐛
 [center][b]-------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]💡 Due to changes, the background may be slightly darker if the colored background is disabled.[/color][/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b]--------------------------------------[/b][/center]
-[center][b][color=#FF5733]📧 If you find an error, please write to: tetracodestudio@gmail.com[/color][/b][/center]
-[center][b]-----------------------[/b][/center]
+🔒 Reduced required permissions to minimum 🔐
+[center][b]-------------------------------------[/b][/center]
+🛠️ Changed in-game music 🎶
+[center][b]-------------------------------------[/b][/center]
+📏 Improved text alignment in the “What’s New” tab for better readability 📄
+[center][b]-------------------------------------[/b][/center]
+🖼️ Added ability to set custom background from gallery or camera on Android devices 📷
+[center][b]-------------------------------------[/b][/center]
+⚠️ Due to technical reasons, app size may increase slightly 📦
+[center][b]-------------------------------------[/b][/center]
+📷 After selecting a background, please wait a moment for processing ⏳
+[center][b]-------------------------------------[/b][/center]
+📏 Recommended images: JPG format, resolution 648x324 or 16:9 aspect ratio 🖼️
+[center][b]-------------------------------------[/b][/center]
+🚀 Changed rendering system to improve performance and stability ⚙️
+[center][b]-------------------------------------[/b][/center]
+💥 Enhanced line-clearing effect ✨
+[center][b]-------------------------------------[/b][/center]
+💥 Improved profile switching 👤
+[center][b]-------------------------------------[/b][/center]
+📉 Removed support for x86 and x86_64 architectures on mobile 📱
+[center][b]-------------------------------------[/b][/center]
+📱 This does not affect gameplay on phones ✅
+[center][b]-------------------------------------[/b][/center]
+❌ However, it prevents playing on emulators 🚫
+[center][b]-------------------------------------[/b][/center]
+🎨 Minor UI improvements 🎭
+[center][b]-------------------------------------[/b][/center]
+📂 Updated Source Code file to the latest version 📁
+[center][b]-------------------------------------[/b][/center]
+🛠️ Fixed buttons in main menu and elsewhere 🔘
+[center][b]-------------------------------------[/b][/center]
+🌐 Adjusted some button translations for clearer descriptions 📝
+[center][b]-------------------------------------[/b][/center]
+🎨 Fixed custom background color setting 🎨
+[center][b]-------------------------------------[/b][/center]
+🍏 iOS version will be released after fixing background setting issue 🍎
+[center][b]-------------------------------------[/b][/center]
+🛠️ Added pause menu shortcut: “ESC” to open and “ENTER” to close ⏸️
+[center][b]-------------------------------------[/b][/center]
+⚠️ Minor source code tweaks to reduce confusion and improve user experience, especially for those who purchased the game 📚
+[center][b]-------------------------------------[/b][/center]
+🔘 Changed visibility of phone control button 📲
+[center][b]-------------------------------------[/b][/center]
+🎵 Fixed music playback outside gameplay scenes 🎼
+[center][b]-------------------------------------[/b][/center]
+🔍 Slightly increased the size of the next piece preview ⬜
+[center][b]-------------------------------------[/b][/center]
+🖱️ Added unique mouse cursor design (PC only) 🖥️
+[center][b]-------------------------------------[/b][/center]
+🎨 Subtle color balance adjustments for all themes.
+[center][b]-------------------------------------[/b][/center]
+🌐 Selected language is now saved.
+[center][b]-------------------------------------[/b][/center]
+🌏 Added new Chinese language 🇨🇳
+[center][b]-------------------------------------[/b][/center]
+📢 Ended devlog support for French, Italian, and Chinese languages 🇫🇷🇮🇹🇨🇳
+[center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
-[center][b]-----------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+
+
+
