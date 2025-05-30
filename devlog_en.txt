@@ -14,6 +14,8 @@
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]⚠️ Important: After the update, all previous settings (e.g. music, theme, etc.) will be reset.
 This is due to changes in the naming system used for data storage. 🔄[/color][/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
 🆕 New app icon (the colors are completely random and are meant to refer to the "TETRIS" inscription in neon style)📱
 [center][b]-------------------------------------[/b][/center]
 🔊 Fixed missing sounds in some scenes 🎵
