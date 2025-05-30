@@ -49,9 +49,9 @@ Jest to związane ze zmianą nazewnictwa w systemie zapisu danych. 🔄[/color][
 [center][b]-------------------------------------[/b][/center]
 📉 Usunięto obsługę wersji x86 i x86_64 w wersji mobilnej 📱
 [center][b]-------------------------------------[/b][/center]
-   📱 Nie wpływa to na działanie gry na telefonach ✅
+----📱 Nie wpływa to na działanie gry na telefonach ✅
 [center][b]-------------------------------------[/b][/center]
-   ❌ Uniemożliwia jednak granie na emulatorach 🚫
+----❌ Uniemożliwia jednak granie na emulatorach 🚫
 [center][b]-------------------------------------[/b][/center]
 🎨 Delikatne poprawki w interfejsie użytkownika 🎭
 [center][b]-------------------------------------[/b][/center]
