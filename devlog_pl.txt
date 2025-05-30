@@ -1,9 +1,14 @@
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Aktualizacja 2.6.8.1[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
 [center]Dołącz do naszego [b]Discorda[/b], gdzie trwa rozdanie klucza do gry! 🔑[/center]
 [center]Spośród dostępnych kluczy [b]3 zawierają dostęp do pełnego kodu źródłowego (Source Code)! 💻[/b][/center]
 [center]Aby dołączyć, po prostu kliknij napis [b]Discord[/b] w menu głównym gry! 🎮[/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center]
+[center][b][color=#FF5733]⚠️ Uwaga: Po aktualizacji wszystkie wcześniejsze ustawienia (np. muzyka, motyw itp.) zostaną zresetowane.
+Jest to związane ze zmianą nazewnictwa w systemie zapisu danych. 🔄[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🐞 Poprawki błędów oraz ulepszenia[/color][/b][/center]
@@ -74,11 +79,11 @@
 [center][b]-------------------------------------[/b][/center]
 🌐 Dodano nowy jezyk chiński
 [center][b]-------------------------------------[/b][/center]
-🌐 Koniec wsparcia devlogow dla jezykow fr,it, oraz cn
+🌐 Koniec wsparcia devlogow dla jezykow francuzki,włoski, oraz chiński
 [center][b]-------------------------------------[/b][/center]
 🎨 Delikatny balans kolorów dla wszystkich motywów.
 [center][b]-------------------------------------[/b][/center]
 🌐 Dodano zapis wybranego języka.
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center
+[center][b]-------------------------------------[/b][/center]
