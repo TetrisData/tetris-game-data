@@ -49,9 +49,9 @@ This is due to changes in the naming system used for data storage. 🔄[/color][
 [center][b]-------------------------------------[/b][/center]
 📉 Removed support for x86 and x86_64 architectures on mobile 📱
 [center][b]-------------------------------------[/b][/center]
-   📱 This does not affect gameplay on phones ✅
+----📱 This does not affect gameplay on phones ✅
 [center][b]-------------------------------------[/b][/center]
-   ❌ However, it prevents playing on emulators 🚫
+----❌ However, it prevents playing on emulators 🚫
 [center][b]-------------------------------------[/b][/center]
 🎨 Minor UI improvements 🎭
 [center][b]-------------------------------------[/b][/center]
