@@ -72,9 +72,13 @@
 [center][b]-------------------------------------[/b][/center]
 🖱️ Dodano unikalny wygląd kursora myszy (tylko PC) 🖥️
 [center][b]-------------------------------------[/b][/center]
-🌏 Dodano nowy język chiński 🇨🇳
+🌐 Dodano nowy jezyk chiński
 [center][b]-------------------------------------[/b][/center]
-📢 Koniec wsparcia devlogów dla języków: francuskiego, włoskiego z chińskim włącznie
+🌐 Koniec wsparcia devlogow dla jezykow fr,it, oraz cn
+[center][b]-------------------------------------[/b][/center]
+🎨 Delikatny balans kolorów dla wszystkich motywów.
+[center][b]-------------------------------------[/b][/center]
+🌐 Dodano zapis wybranego języka.
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
+[center][b]-------------------------------------[/b][/center

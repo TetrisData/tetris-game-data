@@ -78,7 +78,7 @@ This is due to changes in the naming system used for data storage. 🔄[/color][
 [center][b]-------------------------------------[/b][/center]
 🌐 Selected language is now saved.
 [center][b]-------------------------------------[/b][/center]
-🌏 Added new Chinese language 🇨🇳
+🌏 Added new Chinese language
 [center][b]-------------------------------------[/b][/center]
 📢 Ended devlog support for French, Italian, and Chinese languages 🇫🇷🇮🇹🇨🇳
 [center][b]-------------------------------------[/b][/center]
