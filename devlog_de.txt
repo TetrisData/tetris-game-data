@@ -1,3 +1,30 @@
+[center][b][color=#ff6600]🔥 Bald verfügbar: Update 2.6.9.9 – Das große visuelle Update! 🔥[/color][/b][/center]
+
+Mach dich bereit für ein frisches neues Aussehen und Gefühl! Version [b]2.6.9.9[/b] bringt viele spannende Änderungen, die das Spielerlebnis verbessern und neu beleben.
+
+[b]🆕 Was ist neu?[/b]
+
+• ✨ Komplett [b]überarbeitetes System für Nachrichten nach dem Linienräumen[/b] – das Spiel zeigt nun zufällig ausgewählte Kommentare, abhängig davon, wie viele Linien du räumst, voll lokalisiert in 8 Sprachen!  
+• 🎨 Verbesserte Themes und [i]Glas-Stil Benutzeroberfläche[/i]  
+• 🎞️ Mehr Animationen für ein flüssigeres Erlebnis  
+• 🖱️ Neue Symbole und aktualisierte Schaltflächen mit Klick-Animationen  
+• 📊 Option, den [b]Best-Score und Last-Score[/b] im Hauptmenü auszublenden  
+• 🌍 Neue Sprachen hinzugefügt: [b]Portugiesisch (Brasilien)[/b] und [b]Spanisch[/b]  
+• 📱 Verbesserte [b]Touch-Steuerung[/b] auf mobilen Geräten  
+• ⚙️ Allgemeine Leistungsverbesserungen und Fehlerbehebungen
+
+
+
+[center][b]🎉 Tritt unserem [color=#7289da]Discord[/color]-Server bei  
+und gewinne Spielschlüssel – darunter [i]3 volle Quellcode-Schlüssel[/i]!  
+Klicke den Discord-Button im Hauptmenü, um beizutreten![/b][/center]
+
+
+
+[center][b][color=#00cc66]Freu dich drauf — Update 2.6.9.9 kommt bald![/color][/b][/center]
+
+[center][i]👾 Tetracode Studio[/i][/center]
+
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Update 2.6.8.1[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
