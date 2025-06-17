@@ -1,4 +1,28 @@
-[center][b]-------------------------------------[/b][/center]
+[center][b][color=#ff6600]🔥 Coming Soon: Update 2.6.9.9 – The Big Visual Overhaul! 🔥[/color][/b][/center]
+
+Get ready for a fresh new look and feel! Version [b]2.6.9.9[/b] brings tons of exciting changes to polish the experience and breathe new life into the game.
+
+[b]🆕 What’s New?[/b]
+
+• ✨ A completely [b]revamped line clear message system[/b] – the game now shows one of many random comments based on how many lines you clear, fully localized in 8 languages!  
+• 🎨 Enhanced themes and [i]glass-style interface[/i]  
+• 🎞️ More animations for a smoother experience  
+• 🖱️ New icons and updated buttons with click animations  
+• 📊 Option to [b]hide best score and last score[/b] in the main menu  
+• 🌍 New languages added: [b]Portuguese (Brazil)[/b] and [b]Spanish[/b]  
+• 📱 Improved [b]touch controls[/b] on mobile devices  
+• ⚙️ General performance improvements and bug fixes
+
+
+
+[center][b]🎉 Join our [color=#7289da]Discord[/color] server[/b]  
+for a chance to win game keys – including [i]3 full source code keys[/i]!  
+Click the Discord button in the main menu to join![/center]
+
+
+[center][b][color=#00cc66]Get hyped — Update 2.6.9.9 is almost here![/color][/b][/center]
+
+[center][i]👾 Tetracode Studio[/i][/center][center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Update 2.6.8.1[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
 [center][b]-------------------------------------[/b][/center]
