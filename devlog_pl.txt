@@ -1,3 +1,31 @@
+[center][b][color=#ff6600]🔥 Już wkrótce: Aktualizacja 2.6.9.9 – Wielka Rewolucja Wizualna! 🔥[/color][/b][/center]
+
+Przygotuj się na zupełnie nowy wygląd i odczucia! Wersja [b]2.6.9.9[/b] wprowadza mnóstwo ekscytujących zmian, które odświeżą rozgrywkę i dodadzą nowych funkcji.
+
+[b]🆕 Co nowego?[/b]
+
+• ✨ Nowy, całkowicie [b]przebudowany system komunikatów po zniszczeniu linii[/b] – gra losuje jeden z wielu tekstów w zależności od liczby usuniętych linii, z pełnym tłumaczeniem na 8 języków!  
+• 🎨 Ulepszone motywy i [i]szklany design[/i]  
+• 🎞️ Więcej animacji dla płynniejszego wrażenia  
+• 🖱️ Nowe ikony i zaktualizowane przyciski z animacją kliknięcia  
+• 📊 Możliwość [b]ukrycia najlepszego i ostatniego wyniku[/b] w menu głównym  
+• 🌍 Dodano nowe języki: [b]portugalski (Brazylia)[/b] i [b]hiszpański[/b]  
+• 📱 Ulepszone [b]sterowanie dotykowe[/b] na urządzeniach mobilnych  
+• ⚙️ Poprawki wydajności i usunięcie błędów
+
+
+
+[center][b]🎉 Dołącz do naszego [color=#7289da]Discorda[/color]  
+i wygraj klucze do gry – w tym [i]3 klucze do pełnego kodu źródłowego[/i]!  
+Kliknij przycisk Discord w menu głównym, aby dołączyć![/b][/center]
+
+
+
+[center][b][color=#00cc66]Nie przegap! Aktualizacja 2.6.9.9 już prawie gotowa![/color][/b][/center]
+
+[center][i]👾 Tetracode Studio[/i][/center]
+
+
 [center][b]-------------------------------------[/b][/center]
 [center][b][color=#FF5733]🆕 Aktualizacja 2.6.8.1[/color][/b][/center]
 [center][b]-------------------------------------[/b][/center]
