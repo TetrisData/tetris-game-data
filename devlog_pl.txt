@@ -1,4 +1,4 @@
-[center][b][size=20]🆕 [color=#FF5733]Aktualizacja 2.6.9.9[/color] (Ogromna aktualizacja wyglądu) 🧩[/size][/b][/center]
+[center][b]🆕 [color=#FF5733]Aktualizacja 2.6.9.9[/color] (Ogromna aktualizacja wyglądu) 🧩[/b][/center]
 [center]Czeka Cię zupełnie nowy interfejs oraz masa poprawek i dodatków! 🌟[/center]
 
 [b]🎨 Nowy wygląd i personalizacja:[/b]
@@ -30,5 +30,5 @@
 
 [center][color=orange][b]🎉 Dołącz do naszego Discorda![/b][/color] 🔑[/center]
 [center]💻 Do wygrania klucze do gry – 3 z nich zawierają dostęp do [b]pełnego kodu źródłowego (Source Code)[/b]![/center]
-[center]📲 Kliknij napis [b]Discord[/b] w menu głównym gry, aby dołączyć!</center]
+[center]📲 Kliknij napis [b]Discord[/b] w menu głównym gry, aby dołączyć![/center]
 [center][b]👾 Tetracode Studio[/b][/center]
