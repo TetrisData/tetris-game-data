@@ -1,4 +1,4 @@
-[center][b][size=20]🆕 [color=#FF5733]Update 2.6.9.9[/color] (Major Visual Overhaul) 🧩[/size][/b][/center]
+[center][b]🆕 [color=#FF5733]Update 2.6.9.9[/color] (Major Visual Overhaul) 🧩[/b][/center]
 [center]A completely redesigned interface and tons of fixes and new features await! 🌟[/center]
 
 [b]🎨 New Look & Personalization:[/b]
