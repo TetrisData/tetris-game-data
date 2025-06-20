@@ -1,122 +1,34 @@
+[center][b][size=20]🆕 [color=#FF5733]Aktualizacja 2.6.9.9[/color] (Ogromna aktualizacja wyglądu) 🧩[/size][/b][/center]
+[center]Czeka Cię zupełnie nowy interfejs oraz masa poprawek i dodatków! 🌟[/center]
 
-[center][b][color=#ff6600]🔥Oglądaj już teraz Trailer aktualizacji 2.6.9.9.🔥[/color][/b][/center]
-[b]https://www.youtube.com/watch?v=TIXgUslqjfE[/b]
-[center][b]🎉Przewidywana data premiery na 21.06.2025 [/b][/center]
+[b]🎨 Nowy wygląd i personalizacja:[/b]
+[color=lime]• Odświeżony cały interfejs gry[/color] ✨
+• Nowe motywy w stylu szkła 🎭
+• Zmienione tekstury i animacje przycisków 🎮
+• Dodano wiele animowanych elementów oraz komunikaty po zniszczeniu linii 🧠
+• Naprawiono widoczność niestandardowego tła w menu ustawień 🖼️
 
-[center][b][color=#ff6600]🔥 Już wkrótce: Aktualizacja 2.6.9.9 – Wielka Rewolucja Wizualna! 🔥[/color][/b][/center]
+[b]👤 Zmiany w profilach:[/b]
+• Usunięto ograniczenia profilu globalnego 🔓
+• Dodano ikonę pomocy przy tablicy wyników, jak zmienić nazwę profilu 📱
+• Możliwość ukrycia najlepszego i ostatniego wyniku w menu głównym 👁️
 
-Przygotuj się na zupełnie nowy wygląd i odczucia! Wersja [b]2.6.9.9[/b] wprowadza mnóstwo ekscytujących zmian, które odświeżą rozgrywkę i dodadzą nowych funkcji.
+[b]🛠️ Inne ulepszenia i dodatki:[/b]
+• Poprawiono motywy i ich odświeżenie 🔄
+• Ulepszone tłumaczenia 🛠️
+• Zmieniono ikonę aplikacji 📱
+• Poprawiono wygląd ikon oraz okien dialogowych 🔔
+• Nowy system komunikatów ✨
+• Dodano więcej możliwości dostosowania ustawień dźwięku🛠️
+• Zmieniona nazwa pakietu aplikacji: [i]Tetris.TetracodeStudio.com[/i] ⚙️
+• Poprawiono napisy w zakładce twórcy 💻
 
-[b]🆕 Co nowego?[/b]
+[b]🌍 Języki i dokumentacja:[/b]
+• Dodano 🇵🇹 Portugalski i 🇪🇸 Hiszpański
+• Dodano plik [i]License.txt[/i] 📄
+• Dodano plik [i]SourceCodeChanges.txt[/i] (SCC) 📝
 
-• ✨ Nowy, całkowicie [b]przebudowany system komunikatów po zniszczeniu linii[/b] – gra losuje jeden z wielu tekstów w zależności od liczby usuniętych linii, z pełnym tłumaczeniem na 8 języków!  
-• 🎨 Ulepszone motywy i [i]szklany design[/i]  
-• 🎞️ Więcej animacji dla płynniejszego wrażenia  
-• 🖱️ Nowe ikony i zaktualizowane przyciski z animacją kliknięcia  
-• 📊 Możliwość [b]ukrycia najlepszego i ostatniego wyniku[/b] w menu głównym  
-• 🌍 Dodano nowe języki: [b]portugalski (Brazylia)[/b] i [b]hiszpański[/b]  
-• 📱 Ulepszone [b]sterowanie dotykowe[/b] na urządzeniach mobilnych  
-• ⚙️ Poprawki wydajności i usunięcie błędów
-
-
-
-[center][b]🎉 Dołącz do naszego [color=#7289da]Discorda[/color]  
-i wygraj klucze do gry – w tym [i]3 klucze do pełnego kodu źródłowego[/i]!  
-Kliknij przycisk Discord w menu głównym, aby dołączyć![/b][/center]
-
-
-
-[center][b][color=#00cc66]Nie przegap! Aktualizacja 2.6.9.9 już prawie gotowa![/color][/b][/center]
-
-[center][i]👾 Tetracode Studio[/i][/center]
-
-
-[center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🆕 Aktualizacja 2.6.8.1[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center]Dołącz do naszego [b]Discorda[/b], gdzie trwa rozdanie klucza do gry! 🔑[/center]
-[center]Spośród dostępnych kluczy [b]3 zawierają dostęp do pełnego kodu źródłowego (Source Code)! 💻[/b][/center]
-[center]Aby dołączyć, po prostu kliknij napis [b]Discord[/b] w menu głównym gry! 🎮[/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]⚠️ Uwaga: Po aktualizacji wszystkie wcześniejsze ustawienia (np. muzyka, motyw itp.) zostaną zresetowane.
-Jest to związane ze zmianą nazewnictwa w systemie zapisu danych. 🔄[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🐞 Poprawki błędów oraz ulepszenia[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]🌟 Zmiany:[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
-[center][b]-------------------------------------[/b][/center]
-🆕 Nowa ikona aplikacji (kolorystyka jest zupełnie przypadkowa i ma na celu nawiązywać do napisu "TETRIS" w neonowym stylu) 📱
-[center][b]-------------------------------------[/b][/center]
-🔊 Naprawiono brak dźwięków w niektórych scenach 🎵
-[center][b]-------------------------------------[/b][/center]
-🛠️ Ulepszono niektóre animacje ✨
-[center][b]-------------------------------------[/b][/center]
-🌐 Poprawiono menu wyboru języka 🌍
-[center][b]-------------------------------------[/b][/center]
-🛠️ Naprawiono błąd z wczytywaniem stanu zaznaczenia wydania "Bolesław" w trakcie gry 🐛
-[center][b]-------------------------------------[/b][/center]
-🔒 Zredukowano liczbę wymaganych uprawnień do minimum 🔐
-[center][b]-------------------------------------[/b][/center]
-🛠️ Zmieniono muzykę podczas gry 🎶
-[center][b]-------------------------------------[/b][/center]
-📏 Poprawiono wyrównanie tekstu w zakładce sprawdzania nowości, aby był czytelniejszy 📄
-[center][b]-------------------------------------[/b][/center]
-🖼️ Dodano możliwość ustawienia własnego tła z galerii lub aparatu na telefonach z systemem Android 📷
-[center][b]-------------------------------------[/b][/center]
-⚠️ Ze względów technicznych rozmiar aplikacji może się nieco zwiększyć 📦
-[center][b]-------------------------------------[/b][/center]
-📷 Po wybraniu tła odczekaj chwilę na przetworzenie ⏳
-[center][b]-------------------------------------[/b][/center]
-📏 Zalecane obrazy: format JPG, rozdzielczość 648x324 lub proporcje 16:9 🖼️
-[center][b]-------------------------------------[/b][/center]
-🚀 Zmieniono system renderowania, aby poprawić wydajność i stabilność ⚙️
-[center][b]-------------------------------------[/b][/center]
-💥 Ulepszono efekt niszczenia linii ✨
-[center][b]-------------------------------------[/b][/center]
-💥 Usprawniono zmienianie profilu 👤
-[center][b]-------------------------------------[/b][/center]
-📉 Usunięto obsługę wersji x86 i x86_64 w wersji mobilnej 📱
-[center][b]-------------------------------------[/b][/center]
-----📱 Nie wpływa to na działanie gry na telefonach ✅
-[center][b]-------------------------------------[/b][/center]
-----❌ Uniemożliwia jednak granie na emulatorach 🚫
-[center][b]-------------------------------------[/b][/center]
-🎨 Delikatne poprawki w interfejsie użytkownika 🎭
-[center][b]-------------------------------------[/b][/center]
-📂 Zaktualizowano plik Source Code do najnowszej wersji 📁
-[center][b]-------------------------------------[/b][/center]
-🛠️ Poprawiono przyciski w menu głównym i nie tylko 🔘
-[center][b]-------------------------------------[/b][/center]
-🌐 Dostosowano tłumaczenia niektórych przycisków, aby lepiej opisywały ich funkcje 📝
-[center][b]-------------------------------------[/b][/center]
-🎨 Poprawiono ustawianie niestandardowego koloru tła 🎨
-[center][b]-------------------------------------[/b][/center]
-🍏 Wersja iOS zostanie opublikowana po rozwiązaniu problemu z ustawianiem tła 🍎
-[center][b]-------------------------------------[/b][/center]
-🛠️ Dodano skrót do menu pauzy pod przyciskiem "ESC" (otwieranie) i "ENTER" (zamknięcie) ⏸️
-[center][b]-------------------------------------[/b][/center]
-⚠️ Mniejsze zmiany w kodzie źródłowym, aby unikać niezrozumiałości i poprawić odczucia z gry oraz ułatwić zrozumienie osobom, które zakupiły grę 📚
-[center][b]-------------------------------------[/b][/center]
-🔘 Zmieniono widoczność przycisku do sterowania na telefony 📲
-[center][b]-------------------------------------[/b][/center]
-🎵 Poprawiono odtwarzanie muzyki w scenach poza grą 🎼
-[center][b]-------------------------------------[/b][/center]
-🔍 Delikatnie zwiększono rozmiar podglądu następnego klocka ⬜
-[center][b]-------------------------------------[/b][/center]
-🖱️ Dodano unikalny wygląd kursora myszy (tylko PC) 🖥️
-[center][b]-------------------------------------[/b][/center]
-🌐 Dodano nowy jezyk chiński
-[center][b]-------------------------------------[/b][/center]
-🌐 Koniec wsparcia devlogow dla jezykow francuzki,włoski, oraz chiński
-[center][b]-------------------------------------[/b][/center]
-🎨 Delikatny balans kolorów dla wszystkich motywów.
-[center][b]-------------------------------------[/b][/center]
-🌐 Dodano zapis wybranego języka.
-[center][b]-------------------------------------[/b][/center]
-[center][b][color=#FF5733]👾 Tetracode Studio[/color][/b][/center]
-[center][b]-------------------------------------[/b][/center]
+[center][color=orange][b]🎉 Dołącz do naszego Discorda![/b][/color] 🔑[/center]
+[center]💻 Do wygrania klucze do gry – 3 z nich zawierają dostęp do [b]pełnego kodu źródłowego (Source Code)[/b]![/center]
+[center]📲 Kliknij napis [b]Discord[/b] w menu głównym gry, aby dołączyć!</center]
+[center][b]👾 Tetracode Studio[/b][/center]
