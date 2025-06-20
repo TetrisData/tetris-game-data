@@ -1,4 +1,4 @@
-[center][b][size=20]🆕 [color=#FF5733]Update 2.6.9.9[/color] (Großes visuelles Update) 🧩[/size][/b][/center]
+[center][b]🆕 [color=#FF5733]Update 2.6.9.9[/color] (Großes visuelles Update) 🧩[/b][/center]
 [center]Eine komplett neu gestaltete Oberfläche und viele Fehlerbehebungen sowie neue Funktionen erwarten dich! 🌟[/center]
 
 [b]🎨 Neues Aussehen & Personalisierung:[/b]
