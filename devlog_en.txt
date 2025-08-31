@@ -1,3 +1,16 @@
+[b][color=#00BFFF]Update on Game Development[/color][/b]
+
+[color=#FFFFFF]Dear Players,[/color]  
+
+[color=#CCCCCC]We would like to inform you that work on further development and new content for the game has been [/color][b][color=#FF4500]temporarily suspended[/color][/b][color=#CCCCCC] due to the ongoing summer break (holidays).[/color]  
+
+[color=#CCCCCC]At this time, we are unable to provide an exact date for when production will resume. As soon as we have new information, we will share it with you promptly.[/color]  
+
+[color=#FFFFFF]Thank you for your understanding and patience.[/color]  
+
+[i][color=#00FF7F]Tetracode Studio[/color][/i]
+
+
 [center][b]🆕 [color=#FF5733]Update 2.6.9.9[/color] (Major Visual Overhaul) 🧩[/b][/center]
 [center]A completely redesigned interface and tons of fixes and new features await! 🌟[/center]
 
