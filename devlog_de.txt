@@ -1,3 +1,15 @@
+[b][center][color=lime]Information zur Spieleentwicklung[/color][/center][/b]
+
+[color=#FFFFFF]Liebe Spielerinnen und Spieler,[/color]  
+
+Wir möchten euch darüber informieren, dass die Arbeiten an der Weiterentwicklung sowie an neuen Inhalten des Spiels [b][color=#FF4500]vorübergehend ausgesetzt[/color][/b] wurden, bedingt durch die laufenden Sommerferien.  
+
+Derzeit können wir kein genaues Datum nennen, wann die Produktion wieder aufgenommen wird. Sobald neue Informationen vorliegen, werden wir euch umgehend darüber informieren.  
+
+[color=#FFFFFF]Vielen Dank für euer Verständnis und eure Geduld.[/color]  
+
+[i][color=#00FF7F]Tetracode Studio[/color][/i]
+
 [center][b]🆕 [color=#FF5733]Update 2.6.9.9[/color] (Großes visuelles Update) 🧩[/b][/center]
 [center]Eine komplett neu gestaltete Oberfläche und viele Fehlerbehebungen sowie neue Funktionen erwarten dich! 🌟[/center]
 
