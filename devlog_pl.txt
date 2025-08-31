@@ -1,14 +1,14 @@
-[size=16][b]Informacja dotycząca prac nad grą[/b][/size]
+[b][color=#00BFFF]Informacja dotycząca prac nad grą[/color][/b]
 
-Drodzy Gracze,  
+[color=#FFFFFF]Drodzy Gracze,[/color]  
 
-Chcielibyśmy poinformować, że prace nad dalszym rozwojem oraz nową zawartością do gry zostały [b]tymczasowo wstrzymane[/b] z uwagi na trwające ferie letnie (wakacje).  
+[color=#CCCCCC]Chcielibyśmy poinformować, że prace nad dalszym rozwojem oraz nową zawartością do gry zostały [/color][b][color=#FF4500]tymczasowo wstrzymane[/color][/b][color=#CCCCCC] z uwagi na trwające ferie letnie (wakacje).[/color]  
 
-Na chwilę obecną nie jesteśmy w stanie określić dokładnej daty wznowienia działań produkcyjnych. Gdy tylko pojawią się nowe informacje, niezwłocznie Was o tym poinformujemy.  
+[color=#CCCCCC]Na chwilę obecną nie jesteśmy w stanie określić dokładnej daty wznowienia działań produkcyjnych. Gdy tylko pojawią się nowe informacje, niezwłocznie Was o tym poinformujemy.[/color]  
 
-Dziękujemy za wyrozumiałość i cierpliwość.  
+[color=#FFFFFF]Dziękujemy za wyrozumiałość i cierpliwość.[/color]  
 
-[i]Tetracode Studio[/i]
+[i][color=#00FF7F]Tetracode Studio[/color][/i]
 
 [center][b]🆕 [color=#FF5733]Aktualizacja 2.6.9.9[/color] (Ogromna aktualizacja wyglądu) 🧩[/b][/center]
 [center]Czeka Cię zupełnie nowy interfejs oraz masa poprawek i dodatków! 🌟[/center]
