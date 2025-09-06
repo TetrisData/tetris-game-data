@@ -1,3 +1,17 @@
+[b][center][color=lime]Demo von Dying Spark jetzt verfügbar![/color][/center][/b]
+
+[color=#FFFFFF]Liebe Spieler,[/color]  
+
+Wir freuen uns, euch mitteilen zu können, dass das **Demo unseres neuen Spiels [b]Dying Spark[/b] von [b]Tetracode Studio[/b]** jetzt [b][color=#00FF7F]zum Download bereitsteht[/color][/b]!  
+
+Das Spiel unterstützt derzeit **7 Sprachen**: Englisch, Deutsch, Polnisch, Französisch, Spanisch, Portugiesisch und Italienisch.  
+
+Es ist ein [b][color=#FF4500]dynamisches Multiplayer-Shooter-Spiel[/color][/b], in dem der Wettbewerb ein völlig neues Level erreicht. 🚀  
+
+Und das ist erst der Anfang – zukünftige Updates werden noch mehr [b][color=#00FFFF]Verbesserungen und Optionen[/color][/b] bringen, um das Spielerlebnis zu bereichern. 🔥  
+
+[i][color=#00FF7F]Tetracode Studio[/color][/i]
+
 [b][center][color=lime]Information zur Spieleentwicklung[/color][/center][/b]
 
 [color=#FFFFFF]Liebe Spielerinnen und Spieler,[/color]  
@@ -44,3 +58,4 @@ Derzeit können wir kein genaues Datum nennen, wann die Produktion wieder aufgen
 [center]📲 Einfach auf die [b]Discord[/b]-Taste im Hauptmenü klicken, um beizutreten![/center]
 
 [center][b]👾 Tetracode Studio[/b][/center]
+
